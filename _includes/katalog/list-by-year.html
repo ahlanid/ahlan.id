@@ -1,0 +1,38 @@
+
+                <section class="col-lg-9 col-md-9">
+                    <div class="row mb-5">
+                        <div class="col-lg-12">
+                            <h6>
+                                <a href="#" class="first-path">Home</a>
+                                <span class="px-2">
+                                    <svg width="12" height="18" viewBox="0 0 12 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <line x1="0.580215" y1="17.7284" x2="11.5802" y2="0.728375" stroke="black"/>
+                                    </svg>
+                                </span>
+                                <a href="/katalog" class="second-path">Katalog</a>
+                                <span class="px-2">
+                                    <svg width="12" height="18" viewBox="0 0 12 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <line x1="0.580215" y1="17.7284" x2="11.5802" y2="0.728375" stroke="black"/>
+                                    </svg>
+                                </span>
+                                <a href="#" class="second-path">{{ page.date | date: "%Y" }}</a>
+                            </h6>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                    {% for katalog in page.posts %}
+                        <article class="col-lg-4 col-6 mb-5">
+                            <div class="article-card-1">
+                                <div class="article-ba-header">
+                                    <img src="{{ katalog.image }}" alt="{{ katalog.title }}">
+                                </div>
+                                <div class="article-ba-body">
+                                    <h2><a href="{{ katalog.url }}">{{ katalog.title }}</a></h2>
+                                    <div class="writer">{{ katalog.author }}</div>
+                                </div>
+                            </div>
+                        </article>
+                    {% endfor %}
+                    </div>
+                </section>

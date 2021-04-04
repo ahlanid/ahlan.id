@@ -1,0 +1,104 @@
+
+
+{% assign categories = "" | split: ',' %}
+{% assign groups = site.posts  %}
+{% for group in groups %}
+    {% assign categories_on_content = group.categories %}
+    {% for catg in categories_on_content %}
+        {% if categories contains catg %}
+        {% else %}
+        {% assign categories = categories | push: catg %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+                <aside class="col-lg-3 col-md-3 position-relative">
+                    <div class="row justify-content-between mb-5">
+                        <!-- CUSTOM SELECT BUKU AHLAN -->
+                        <div id="container-custom-select-ba" class="col-6 position-relative select-trigger">
+                            <div class="select-cover">
+                                <span class="data-provinsi">Kategori</span>
+                                <svg width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.33396 0.0831127C1.63262 0.0831127 1.93129 0.197446 2.15879 0.424946L6.01462 4.28078L9.85646 0.570779C10.3208 0.122779 11.0581 0.134446 11.5061 0.599946C11.9541 1.06311 11.9413 1.80278 11.4781 2.24961L6.81146 6.75528C6.35296 7.19745 5.62496 7.19161 5.17579 6.74128L0.509124 2.07461C0.0529566 1.61845 0.0529566 0.881112 0.509124 0.424946C0.736624 0.197446 1.03529 0.0831127 1.33396 0.0831127Z" fill="#8F9BB3"/>
+                                </svg>
+                            </div>
+                            <div class="row custom-select-ba">
+                                {% for category in categories  %}
+                                <a href="/katalog/{{ category | slugify }}" class="col-lg-12">{{ category  }}</a>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        <div id="container-custom-select-ba" class="col-6 position-relative select-trigger">
+                            <div class="select-cover">
+                                <span class="data-provinsi">Tahun Rilis</span>
+                                <svg width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.33396 0.0831127C1.63262 0.0831127 1.93129 0.197446 2.15879 0.424946L6.01462 4.28078L9.85646 0.570779C10.3208 0.122779 11.0581 0.134446 11.5061 0.599946C11.9541 1.06311 11.9413 1.80278 11.4781 2.24961L6.81146 6.75528C6.35296 7.19745 5.62496 7.19161 5.17579 6.74128L0.509124 2.07461C0.0529566 1.61845 0.0529566 0.881112 0.509124 0.424946C0.736624 0.197446 1.03529 0.0831127 1.33396 0.0831127Z" fill="#8F9BB3"/>
+                                </svg>
+                            </div>
+                            <div class="row custom-select-ba">
+                                {% assign sortedResources = site.posts | date_sort | reverse %}
+                                {% for post in sortedResources %}
+                                  {% assign currentdate = post.date | date: "%Y" %}
+                                  {% if currentdate != date %}
+                                    <a href="/year/{{ currentdate }}" class="col-lg-12">{{ currentdate }}</a>
+                                    {% assign date = currentdate %} 
+                                  {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                    <div class="row mb-3">
+                        <div class="col-lg-12">
+                            <h3>Kategori</h3>
+                        </div>
+                    </div>
+
+                    {% for cat_group in site.data.katalog.group_category %}
+                    <div class="row mb-3">
+                        <div class="col-lg-12">
+                            <h6>{{ cat_group.title }} 
+                                <span class="ml-2">
+                                    <svg width="20" height="10" viewBox="0 0 20 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0002 9.33364C9.6962 9.33364 9.39354 9.23097 9.14687 9.0243L1.14687 2.35764C0.581538 1.88697 0.504204 1.04564 0.976204 0.480304C1.44687 -0.0850295 2.28687 -0.161029 2.85354 0.309637L10.0149 6.27764L17.1642 0.524304C17.7375 0.0629705 18.5775 0.153637 19.0389 0.72697C19.5002 1.3003 19.4095 2.13897 18.8362 2.60164L10.8362 9.03897C10.5922 9.23497 10.2962 9.33364 10.0002 9.33364Z" fill="#25282B"/>
+                                    </svg>
+                                </span>
+                            </h6>
+                        </div>
+                        <div class="col-lg-12">
+                            <ul class="nav flex-column">
+                                {% for category in cat_group.data  %}
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/katalog/{{ category | slugify }}">{{ category }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                    <div class="row mb-3">
+                        <div class="col-lg-12">
+                            <h6>Tahun Rilis
+                                <span class="ml-2">
+                                    <svg width="20" height="10" viewBox="0 0 20 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0002 9.33364C9.6962 9.33364 9.39354 9.23097 9.14687 9.0243L1.14687 2.35764C0.581538 1.88697 0.504204 1.04564 0.976204 0.480304C1.44687 -0.0850295 2.28687 -0.161029 2.85354 0.309637L10.0149 6.27764L17.1642 0.524304C17.7375 0.0629705 18.5775 0.153637 19.0389 0.72697C19.5002 1.3003 19.4095 2.13897 18.8362 2.60164L10.8362 9.03897C10.5922 9.23497 10.2962 9.33364 10.0002 9.33364Z" fill="#25282B"/>
+                                    </svg>
+                                </span>
+                            </h6>
+                        </div>
+                        <div class="col-lg-12">
+                            <ul class="nav flex-column">
+                                {% assign sortedResources = site.posts | date_sort | reverse %}
+                                {% for post in sortedResources %}
+                                  {% assign currentdate = post.date | date: "%Y" %}
+                                  {% if currentdate != date %}
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/year/{{ currentdate }}">{{ currentdate }}</a>
+                                    </li>
+                                    {% assign date = currentdate %} 
+                                  {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </aside>

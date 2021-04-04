@@ -1,0 +1,136 @@
+---
+layout: default
+---
+{% include breadcrumbs.html %}
+
+<main id="daftar-agen">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Daftar Agen Ahlan</h1>
+                <p>Produk Ahlan tersedia di agen ahlan terdekat <br> dari kota Anda</p>
+            </div>
+        </div>
+        <div class="row mb-5">
+            <!-- CUSTOM DEFAULT SELECT -->
+            <!-- <div class="col-lg-3">
+                <form action="#">
+                    <div class="row">
+                        <div class="col">
+                            <select class="custom-select">
+                                <option selected>Pilih Provinsi</option>
+                                <option value="1">Aceh</option>
+                                <option value="2">Bandung</option>
+                                <option value="3">DKI Jakarta</option>
+                                <option value="3">Yogyakarta</option>
+                                <option value="3">Semarang</option>
+                                <option value="3">Surabaya</option>
+                                <option value="3">Sumatera Utara</option>
+                            </select>
+                        </div>
+                    </div>
+                </form>
+            </div> -->
+            <!-- CUSTOM SELECT BUKU AHLAN -->
+            <div id="container-custom-select-ba" class="col-lg-3 col-md-5 col-sm-6 position-relative">
+                <div class="h-100 d-flex justify-content-between align-items-center mb-1">
+                    <span class="data-provinsi">Pilih Provinsi</span>
+                    <svg width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.33396 0.0831127C1.63262 0.0831127 1.93129 0.197446 2.15879 0.424946L6.01462 4.28078L9.85646 0.570779C10.3208 0.122779 11.0581 0.134446 11.5061 0.599946C11.9541 1.06311 11.9413 1.80278 11.4781 2.24961L6.81146 6.75528C6.35296 7.19745 5.62496 7.19161 5.17579 6.74128L0.509124 2.07461C0.0529566 1.61845 0.0529566 0.881112 0.509124 0.424946C0.736624 0.197446 1.03529 0.0831127 1.33396 0.0831127Z" fill="#8F9BB3"></path>
+                    </svg>
+                </div>
+                <div class="row custom-select-ba">
+                    <a href="#" class="col-lg-12">Aceh</a>
+                    <a href="#" class="col-lg-12">Bandung</a>
+                    <a href="#" class="col-lg-12">DKI Jakarta</a>
+                    <a href="#" class="col-lg-12">Yogyakarta</a>
+                    <a href="#" class="col-lg-12">Semarang</a>
+                    <a href="#" class="col-lg-12">Surabaya</a>
+                    <a href="#" class="col-lg-12">Sumatera Utara</a>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 thead-ba">
+            <div class="col-lg-3 d-none d-sm-flex justify-content-center align-items-center">
+                <h6>Wilayah</h6>
+            </div>
+            <div class="col-lg-3 col-4 d-flex justify-content-center align-items-center">
+                <h6>Nama Agen</h6>
+            </div>
+            <div class="col-lg-3 col-4 d-flex justify-content-center align-items-center">
+                <h6>Telepon</h6>
+            </div>
+            <div class="col-lg-3 col-4 d-flex justify-content-center align-items-center">
+                <h6>Sosial Media</h6>
+            </div>
+        </div>
+        <div class="row tbody-ba">
+            {%- for regionals in site.data.agen -%}
+            <div class="tbody-ba-left">
+                <h3>{{ regionals.wilayah }}</h3>
+            </div>
+            <div class="tbody-ba-right">
+                {%- for agen in regionals.data -%}
+                <div class="tbody-ba-right-container">
+                    <div class="tbody-ba-right-20 border-right-0">
+                        <div class="alamat-agen">{{ agen.kota }}</div>
+                    </div>
+                    <div class="tbody-ba-right-20 d-none d-sm-flex border-right-0">
+                        <div class="nama-agen">{{ agen.nama }}</div>
+                    </div>
+                    <div class="tbody-ba-right-30 border-right-0">
+                        <div class="kontak-agen">
+                            <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M23.2001 29.3333C11.8774 29.3333 2.66673 20.1227 2.66673 8.8C2.66673 5.41734 5.41873 2.66667 8.80006 2.66667C9.14673 2.66667 9.48939 2.69601 9.82139 2.75334C10.1454 2.80534 10.4721 2.88801 10.7881 2.99734C11.2227 3.14801 11.5481 3.51201 11.6507 3.96001L13.4774 11.912C13.5774 12.3493 13.4507 12.808 13.1401 13.1333C12.9574 13.3227 12.9534 13.3267 11.3001 14.192C12.6387 17.0907 14.9654 19.4093 17.8067 20.7027C18.6721 19.048 18.6774 19.0427 18.8667 18.8613C19.1934 18.5493 19.6534 18.428 20.0894 18.524L28.0414 20.3493C28.4881 20.452 28.8521 20.7773 29.0027 21.2107C29.1121 21.5253 29.1934 21.8507 29.2481 22.1853C29.3041 22.5147 29.3334 22.856 29.3334 23.2C29.3334 26.5827 26.5827 29.3333 23.2001 29.3333Z" fill="#2E3A59"></path>
+                            </svg>
+                            <span>{{ agen.nomor_telepon }}</span>
+                        </div>
+                        <div class="kontak-agen">
+                            <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M14.0007 2.79982C7.81555 2.79982 2.80075 7.81462 2.80075 13.9998C2.80075 16.4526 3.59035 18.7234 4.93155 20.5686L3.39155 24.6174L7.83515 23.3518C9.60195 24.5194 11.7215 25.1998 14.0007 25.1998C20.1859 25.1998 25.2007 20.185 25.2007 13.9998C25.2007 7.81462 20.1859 2.79982 14.0007 2.79982ZM19.9536 18.6394L18.7607 19.8322C17.5063 21.0866 14.1799 19.7062 11.2316 16.7578C8.28035 13.8066 6.96155 10.4802 8.15435 9.22582L9.34715 8.03302C9.78675 7.59342 10.5399 7.59342 11.0412 8.03302L12.7995 9.79142C13.4267 10.4186 13.1747 11.4854 12.3599 11.7346C11.7943 11.925 11.4192 12.5522 11.6068 13.1178C11.9204 14.4338 13.6144 16.0662 14.8715 16.3798C15.4344 16.5058 16.0643 16.1922 16.2519 15.6266C16.5011 14.8118 17.5707 14.5598 18.1979 15.187L19.9536 16.9454C20.3932 17.385 20.3932 18.1382 19.9536 18.6394Z" fill="#4CAF50"></path>
+                            </svg>
+                            <span>{{ agen.nomor_wa }}</span>
+                        </div>
+                    </div>
+                    <div class="tbody-ba-right-30 border-right-0">
+                        {% if agen.facebook %}
+                        <div class="social-media-agen">
+                            <a href="{{ agen.facebook.url }}">
+                                <img src="/assets/svg/social-media-facebook.png" alt="#">
+                            </a>
+                            <span>{{ agen.facebook.nama }}</span>
+                        </div>
+                        {% endif %}
+                        {% if agen.tokopedia %}
+                        <div class="social-media-agen">
+                            <a href="{{ agen.tokopedia.url }}">
+                                <img src="/assets/svg/social-media-tokopedia.png" alt="#">
+                            </a>
+                            <span>{{ agen.tokopedia.nama }}</span>
+                        </div>
+                        {% endif %}
+                        {% if agen.instagram %}
+                        <div class="social-media-agen">
+                            <a href="{{ agen.instagram.url  }}">
+                                <img src="/assets/svg/social-media-instagram.png" alt="#">
+                            </a>
+                            <span>{{ agen.instagram.nama }}</span>
+                        </div>
+                        {% endif %}
+                        {% if agen.shopee %}
+                        <div class="social-media-agen">
+                            <a href="{{ agen.shopee.url }}">
+                                <img src="/assets/svg/social-media-shopee.png" alt="#">
+                            </a>
+                            <span>{{ agen.shopee.nama }}</span>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</main>

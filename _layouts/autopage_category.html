@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% assign categories = "" | split: ',' %}
+{% assign groups = site.posts  %}
+{% for group in groups %}
+    {% assign categories_on_content = group.categories %}
+    {% for catg in categories_on_content %}
+        {% if categories contains catg %}
+        {% else %}
+        {% assign categories = categories | push: catg %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+    <!-- MAIN -->
+    <main id="main">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- ASIDE LEFT -->
+                {% include/katalog/aside.html %}
+                <!-- ARTICLE -->
+                {% include/katalog/list.html %}
+            </div>
+            {% include pagination.html %}
+        </div>
+    </main>

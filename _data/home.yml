@@ -1,0 +1,24 @@
+headers:
+  - image: /assets/images/header-1.png
+    alt: header-1
+
+  - image: /assets/images/header-1.png
+    alt: header-1
+
+  - image: /assets/images/header-1.png
+    alt: header-1
+
+coming_soon:
+  - image: /assets/images/hero-1.png
+    title: Coming Soon Event
+    url: "#"
+
+  - image: /assets/images/hero-2.png
+    title: Coming Soon Product
+    url: "#"
+
+recomendation:
+  title:
+    - "Bintang - Bintang Yang Terang"
+    - "Amar Ma’ruh Nahi Munkar"
+    - "10 Kisah Hidayah Shahabiyah"

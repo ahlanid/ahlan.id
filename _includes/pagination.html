@@ -1,0 +1,34 @@
+
+            <!-- PAGINATION -->
+            <div class="row mt-5">
+                <div class="col-lg-12">
+                    <ul class="pagination justify-content-center">
+                        {% if paginator.previous_page %}
+                        <li class="page-item">
+                            <a class="page-link" href="{{ paginator.previous_page_path }}" tabindex="-1" aria-disabled="true">
+                                <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M8.50015 2.00061C8.50015 2.26428 8.41149 2.52911 8.22949 2.74728L3.00749 9.01345L8.04165 15.2691C8.44649 15.7696 8.36715 16.5046 7.86432 16.9095C7.36265 17.3131 6.62882 17.2338 6.22399 16.731L0.591319 9.73095C0.242486 9.29928 0.247153 8.67978 0.604153 8.25278L6.43749 1.25278C6.84932 0.758114 7.58549 0.691614 8.08015 1.10345C8.35665 1.33445 8.50015 1.66578 8.50015 2.00061Z" fill="#25282B"/>
+                                </svg>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if paginator.page_trail %}
+                            {% for trail in paginator.page_trail %}
+                            <li {% if page.url == trail.path %}class="page-item disabled"{% else %}class="page-item"{% endif %}>
+                                <a href="{{ trail.path }}" title="{{trail.title}}" {% if page.url == trail.path %}class="page-link active"{% else %}class="page-link"{% endif %}>{{ trail.num }}</a>
+                            </li>
+                            {% endfor %}
+                        {% endif %}
+                        
+                        {% if paginator.previous_page %}
+                        <li class="page-item">
+                            <a class="page-link" href="{{ paginator.next_page_path }}">
+                                <svg width="8" height="16" viewBox="0 0 18 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9997 18.0002C17.9997 18.5702 17.8072 19.1377 17.4197 19.6002L4.91971 34.6002C4.03721 35.6602 2.45971 35.8052 1.39971 34.9202C0.339715 34.0377 0.197215 32.4627 1.07972 31.4002L12.2697 17.9727L1.48221 4.56772C0.617215 3.49272 0.787215 1.91772 1.86221 1.05273C2.93721 0.187725 4.50971 0.357723 5.37721 1.43272L17.4472 16.4327C17.8147 16.8902 17.9997 17.4452 17.9997 18.0002Z" fill="#25282B"/>
+                                </svg>
+                            </a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>

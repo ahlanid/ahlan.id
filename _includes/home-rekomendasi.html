@@ -1,0 +1,38 @@
+
+<!-- MAIN PRODUCT 3 -->
+<main id="product-3">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4 product-col-first">
+                <div class="product-about">
+                    <h3>Buku Rekomendasi</h3>
+                    <a href="/katalog">Lihat Semua</a>
+                </div>
+                <div class="product-cover">
+                    <h3>Buku Rekomendasi</h3>
+                    <a href="/katalog">Lihat Selengkapnya</a>
+                </div>
+                <img src="./assets/images/product-3-1.png" alt="#">
+            </div>
+            <div class="col-md-8">
+                <div class="row">
+                    {% for post in site.posts %}
+                    {% if site.data.home.recomendation.title contains post.title %}
+                    <article class="col-lg-4 col-6">
+                        <div class="product-card">
+                            <div class="product-card-ba-header">
+                                <img src="{{ post.image }}" alt="{{ post.title }}">
+                            </div>
+                            <div class="product-card-ba-body">
+                                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                                <div class="writer">{{ post.author }}</div>
+                            </div>
+                        </div>
+                    </article>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

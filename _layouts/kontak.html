@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% include breadcrumbs.html %}
+<main id="main-form">
+    <div class="container-fluid">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <h1>Hubungi Kami</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-10">
+                <form name="contact" method="POST" method="POST" data-netlify="true">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 mb-3">
+                            <label for="firstName">Nama depan</label>
+                            <input type="text" class="form-control" id="firstName" name="firstName" placeholder="Nama Depan">
+                        </div>
+                        <div class="col-lg-6 col-md-6 mb-3">
+                            <label for="lastName">nama belakang</label>
+                            <input type="text" class="form-control" id="lastName" name="lastName" placeholder="Nama Belakang">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col">
+                            <label for="email">email</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="email@gmail.com">
+                        </div>
+                    </div>
+                    <div class="row mb-5">
+                        <div class="col">
+                            <label for="message">isi pesan</label>
+                            <textarea name="message" id="message" class="form-control" rows="10" placeholder="Place your text"></textarea>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <button type="submit" class="btn">KIRIM</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>

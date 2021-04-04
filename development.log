@@ -1,0 +1,28 @@
+18/02/2021
+- Init jekyll
+- Setup config
+- Slicing default layout header, footer
+- Slicing homepage
+- Deploy to netlify
+- env development noindex, nofollow
+
+19/02/2021
+- List katalog
+- List kabar
+
+21/02/2021
+- Page agen ahlan
+- Page cara menjadi agen
+- List page Testimoni
+- Single page layout
+- refactor folder collections
+- dummy content on list
+
+22/02/2021
+- single buku
+- single kabar
+- content buku
+
+23/02/2021
+- home data
+- category on katalog

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include navigation.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    <script src="{{ site.baseurl }}styles/js/jquery-3.5.1.min.js"></script>
+    <script src="{{ site.baseurl }}styles/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ site.baseurl }}styles/js/index.js"></script>
+  </body>
+</html>

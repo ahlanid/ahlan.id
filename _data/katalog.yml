@@ -1,0 +1,11 @@
+group_category:
+   - 
+      title: "Buku Anak"
+      data:
+         - "Agama"
+         - "Pendidikan"
+   - 
+      title: "Buku Umum"
+      data:
+         - "Sains"
+         - "Komik"

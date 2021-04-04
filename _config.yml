@@ -1,0 +1,102 @@
+title: Penerbit Ahlan
+env: "development"
+description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint."
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+address: "8502 Preston Rd. - Inglewood, Maine 98380"
+facebook_url: https://www.facebook.com/
+twitter_url: https://www.twitter.com/
+design_by: "Icons made by Pixel Perfect & Eva Icons"
+
+# Build settings
+theme: minima
+gems:
+  - jekyll-paginate-v2
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-admin
+
+permalink: pretty
+
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    year: '/year/:year/'
+
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
+
+autopages:
+  enabled: true
+  categories: 
+    layouts: 
+      - 'autopage_category.html'
+    title: 'Posts in category :cat'
+    permalink: '/katalog/:cat'
+  tags:
+    enabled: false
+  collections:
+    enabled: false
+
+collections:
+  pages:
+    output: true
+    permalink: /:title
+  kabar:
+    output: true
+    permalink: /:collection/:title
+  testimoni:
+    permalink: /:collection/:title
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "buku"
+      permalink: katalog/:categories/:title
+
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      type: "katalog"
+    values:
+      layout: "buku"
+  -
+    scope:
+      type: "kabar"
+    values:
+      layout: "page"
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - development.log

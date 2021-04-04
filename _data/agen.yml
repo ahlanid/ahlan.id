@@ -1,0 +1,71 @@
+- wilayah: "DKI Jakarta"
+  data:
+    - kota: "Jakarta Timur"
+      nama: "Asteria Arnitasari"
+      nomor_telepon: 08126454545
+      nomor_wa: 08135496461
+      facebook:
+        nama: "Maya Store" 
+        url: "https://www.facebook.com/"
+      tokopedia:
+        nama: "Maya Store" 
+        url: "https://www.tokopedia.com/"
+      instagram:
+        nama: "Maya Store" 
+        url: "https://www.instagram.com/"
+      shopee:
+        nama: "Maya Store" 
+        url: "https://www.shopee.com/"
+
+    - kota: "Jakarta Selatan"
+      nama: "Asteria Arnitasari"
+      nomor_telepon: 08126454545
+      nomor_wa: 08135496461
+      facebook:
+        nama: "Maya Store" 
+        url: "https://www.facebook.com/"
+      tokopedia:
+        nama: "Maya Store" 
+        url: "https://www.tokopedia.com/"
+      instagram:
+        nama: "Maya Store" 
+        url: "https://www.instagram.com/"
+      shopee:
+        nama: "Maya Store" 
+        url: "https://www.shopee.com/"
+
+- wilayah: "Jawa Barat"
+  data:
+    - kota: "Depok"
+      nama: "Asteria Arnitasari"
+      nomor_telepon: 08126454545
+      nomor_wa: 08135496461
+      facebook:
+        nama: "Maya Store" 
+        url: "https://www.facebook.com/"
+      tokopedia:
+        nama: "Maya Store" 
+        url: "https://www.tokopedia.com/"
+      instagram:
+        nama: "Maya Store" 
+        url: "https://www.instagram.com/"
+      shopee:
+        nama: "Maya Store" 
+        url: "https://www.shopee.com/"
+
+    - kota: "Bandung"
+      nama: "Asteria Arnitasari"
+      nomor_telepon: 08126454545
+      nomor_wa: 08135496461
+      facebook:
+        nama: "Maya Store" 
+        url: "https://www.facebook.com/"
+      tokopedia:
+        nama: "Maya Store" 
+        url: "https://www.tokopedia.com/"
+      instagram:
+        nama: "Maya Store" 
+        url: "https://www.instagram.com/"
+      shopee:
+        nama: "Maya Store" 
+        url: "https://www.shopee.com/"

@@ -1,0 +1,48 @@
+nav:
+  - title: "Home"
+    url: '/'
+
+  - title: "Katalog"
+    section: katalog
+    
+  - title: "Kabar Ahlan"
+    section: kabar-ahlan
+
+  - title: "Agen Ahlan"
+    section: daftar-agen
+
+  - title: "Cara Menjadi Agen"
+    section: cara-menjadi-agen
+
+  - title: "Testimoni"
+    section: testimoni
+
+  - title: "Kontak"
+    section: kontak
+
+footer:
+  terms:
+    - title: "Help Center"
+      section: help-center
+
+    - title: "Service"
+      url: "/#"
+
+    - title: "FAQ"
+      url: "/#"
+
+    - title: "Press Center"
+      url: "/#"
+      
+  company:
+  - title: "About Us"
+    url: "/#"
+
+  - title: "Carrer"
+    url: "/#"
+
+  - title: "Blog"
+    url: "/#"
+
+  - title: "Workshop"
+    url: "/#"

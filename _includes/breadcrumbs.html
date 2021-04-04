@@ -1,0 +1,30 @@
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+<!-- PATH -->
+<section id="path">
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-lg-12">
+              <h6>
+                  <a href="/" class="first-path">Home</a>
+                  {% for crumb in crumbs offset: 1 %}
+                    {% if forloop.last %}
+                      <span class="px-2">
+                          <svg width="12" height="18" viewBox="0 0 12 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <line x1="0.580215" y1="17.7284" x2="11.5802" y2="0.728375" stroke="#A0A4A8"></line>
+                          </svg>
+                      </span>
+                      <a href="#" class="second-path">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+                    {% else %}
+                      <span class="px-2">
+                          <svg width="12" height="18" viewBox="0 0 12 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <line x1="0.580215" y1="17.7284" x2="11.5802" y2="0.728375" stroke="#A0A4A8"></line>
+                          </svg>
+                      </span>
+                      <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}" class="second-path">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+                    {% endif %}
+                  {% endfor %}
+              </h6>
+          </div>
+      </div>
+  </div>
+</section>

@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+{% include breadcrumbs.html %}
+
+<!-- MAIN KABAR 1 -->
+<main id="main-kabar-1">
+    <div class="container-fluid">
+        <div class="row mb-3">
+            <div class="col-lg-12">
+                <h3>Kabar Ahlan</h3>
+            </div>
+        </div>
+        <div class="row">
+            {% assign firstkabars = site.kabar | sort: 'date' | reverse %}
+            {% for firstkabar in firstkabars limit:1 %}
+            {% assign category = firstkabar.categories | first %}
+            <article class="col-lg-6 mb-lg-0 mb-4">
+                <div class="article-card-big">
+                    <div class="article-card-ba-header position-relative">
+                        <a class="article-status" href="#" style="background-color: {{ site.data.kabar.styles[category] }};">{{ category }}</a>
+                        <img src="{{ firstkabar.image | absolute_url }}" alt="#">
+                    </div>
+                    <div class="article-card-ba-body">
+                        <h2><a href="{{ firstkabar.url }}">{{ firstkabar.title }}</a></h2>
+                        <p>{{ firstkabar.excerpt }}</p>
+                        <div>{{ firstkabar.date | date: "%-d/%m/%Y" }}</div>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+            <div class="col-lg-6">
+                {% assign nextkabars = site.kabar | sort: 'date' | reverse %}
+                {% for nextkabar in nextkabars limit:3 offset:1 %}
+                {% assign category = nextkabar.categories | first %}
+                <article class="article-margin">
+                    <div class="article-card-2">
+                        <div class="article-card-ba-left position-relative">
+                            <a class="article-status" href="#" style="background-color: {{ site.data.kabar.styles[category] }};">{{ category }}</a>
+                            <img src="{{ nextkabar.image | absolute_url }}" alt="#">
+                        </div>
+                        <div class="article-card-ba-right">
+                            <h4><a href="{{ nextkabar.url }}">{{ nextkabar.title }}</a></h4>
+                            <p>{{ nextkabar.excerpt }}</p>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</main>
+<!-- MAIN KABAR 2 -->
+<main id="main-kabar-2">
+    <div class="container-fluid">
+        <div class="row">
+            {% for kabar in paginator.posts %}
+            {% assign category = kabar.categories | first %}
+            <article class="col-lg-4 mb-5">
+                <div class="article-card-big">
+                    <div class="article-card-ba-header position-relative">
+                        <a class="article-status" href="#" style="background-color: {{ site.data.kabar.styles[category] }};">{{ category }}</a>
+                        <img src="{{ kabar.image | absolute_url }}" alt="#">
+                    </div>
+                    <div class="article-card-ba-body">
+                        <h2><a href="{{ kabar.url }}">{{ kabar.title }}</a></h2>
+                        <p>{{ kabar.excerpt }}</p>
+                        <div>{{ kabar.date | date: "%-d/%m/%Y" }}</div>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+        {% include pagination.html %}
+    </div>
+</main>
