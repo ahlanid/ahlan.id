@@ -1,38 +1,31 @@
 - wilayah: "DKI Jakarta"
   data:
-    - kota: "Jakarta Timur"
-      nama: "Asteria Arnitasari"
-      nomor_telepon: 08126454545
-      nomor_wa: 08135496461
+    - kota: "Agen Jakarta Selatan"
+      nama: "	Deby Sandra Putri"
+      nomor_telepon: 0811149712
+      nomor_wa: 0811149712
       facebook:
-        nama: "Maya Store" 
+        nama: "Deby Sandra Putri" 
         url: "https://www.facebook.com/"
-      tokopedia:
-        nama: "Maya Store" 
-        url: "https://www.tokopedia.com/"
-      instagram:
-        nama: "Maya Store" 
-        url: "https://www.instagram.com/"
-      shopee:
-        nama: "Maya Store" 
-        url: "https://www.shopee.com/"
 
-    - kota: "Jakarta Selatan"
-      nama: "Asteria Arnitasari"
-      nomor_telepon: 08126454545
-      nomor_wa: 08135496461
-      facebook:
-        nama: "Maya Store" 
-        url: "https://www.facebook.com/"
-      tokopedia:
-        nama: "Maya Store" 
-        url: "https://www.tokopedia.com/"
+    - kota: "Agen Jakarta Selatan"
+      nama: "Kartika Putri"
+      nomor_telepon: 081316317520
+      nomor_wa: 081316317520
       instagram:
-        nama: "Maya Store" 
-        url: "https://www.instagram.com/"
-      shopee:
-        nama: "Maya Store" 
-        url: "https://www.shopee.com/"
+        nama: "@enti_room" 
+        url: "https://www.instagram.com/enti_room"
+
+    - kota: "Agen Jakarta Selatan"
+      nama: "Afra Afifah"
+      nomor_telepon: 081806394913	
+      nomor_wa: 081806394913
+      facebook:
+        nama: "Afra Afifah" 
+        url: "https://www.facebook.com/afraafifah"
+      instagram:
+        nama: "@bukusunnahanak" 
+        url: "https://www.instagram.com/bukusunnahanak"
 
 - wilayah: "Jawa Barat"
   data:
