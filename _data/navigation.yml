@@ -2,8 +2,11 @@ nav:
   - title: "Home"
     url: '/'
 
-  - title: "Katalog"
+  - title: "Katalog Produk"
     section: katalog
+
+  - title: "Profil Penulis"
+    section: penulis
     
   - title: "Kabar Ahlan"
     section: kabar-ahlan
