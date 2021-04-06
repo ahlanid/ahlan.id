@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "Minal Alif Ilal Ya: Akhlak Mulia"
-    image: "assets/images/carousel-minal-alif-1.png"
+    image: "assets/images/produk/isi-maya-1.png"
   - title: "Minal Alif Ilal Ya: Akhlak Mulia"
-    image: "assets/images/carousel-minal-alif-2.png"
+    image: "assets/images/produk/isi-maya-2.png"
   - title: "Minal Alif Ilal Ya: Akhlak Mulia"
-    image: "assets/images/carousel-minal-alif-3.png"
+    image: "assets/images/produk/isi-maya-3.png"
 ---
 
 Di antara niat dan tujuan pembuatan buku ini: 
