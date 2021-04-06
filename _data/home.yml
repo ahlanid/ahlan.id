@@ -1,12 +1,12 @@
 headers:
-  - image: /assets/images/minal-alif.png
+  - image: /assets/images/sliders/minal-alif.png
     alt: "Minal Alif Ilal Ya: Ahlak Mulia"
 
-  - image: /assets/images/header-1.png
-    alt: header-1
-
-  - image: /assets/images/header-1.png
-    alt: header-1
+  - image: /assets/images/sliders/minal-alif-2.png
+    alt: "Minal Alif Ilal Ya: Ahlak Mulia"
+    
+  - image: /assets/images/sliders/minal-alif-3.png
+    alt: "Minal Alif Ilal Ya: Ahlak Mulia"    
 
 coming_soon:
   - image: /assets/images/hero-1.png
