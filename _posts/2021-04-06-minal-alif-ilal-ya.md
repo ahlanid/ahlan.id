@@ -1,7 +1,7 @@
 ---
 title: "Minal Alif Ilal Ya: Akhlak Mulia"
 date: "2021-04-06 14:14:17 +0700"
-image: "/assets/images/product-4-1.png"
+image: "/assets/images/produk/cover-maya.jpg"
 author: "Nasir Umar bin Amr"
 halaman: "60"
 isbn: "9786237447139"
@@ -9,14 +9,14 @@ bahasa: "Indonesia"
 penerbit: "Ahlan"
 umur: "Usia SD"
 categories: 
-  - "Agama"
+  - "Akhlak"
 sliders: 
   - title: "Minal Alif Ilal Ya: Akhlak Mulia"
-    image: "assets/images/product-carousel.png"
+    image: "assets/images/produk/isi-maya-1.png"
   - title: "Minal Alif Ilal Ya: Akhlak Mulia"
-    image: "assets/images/product-carousel.png"
+    image: "assets/images/produk/isi-maya-2.png"
   - title: "Minal Alif Ilal Ya: Akhlak Mulia"
-    image: "assets/images/product-carousel.png"
+    image: "assets/images/produk/isi-maya-3.png"
 ---
 
 Di antara niat dan tujuan pembuatan buku ini: 
