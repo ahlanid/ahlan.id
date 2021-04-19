@@ -27,6 +27,15 @@
         nama: "@bukusunnahanak" 
         url: "https://www.instagram.com/bukusunnahanak"
 
+    - kota: "Agen Kota Jakarta Timur"
+      nama: "Mulyadi Putra (Solusi Muslim Agency)"
+      nomor_telepon: 02129841541
+      nomor_wa: 08568226176
+      website:
+	nama: "www.jualquran.net" 
+	url: "www.jualquran.net"
+
+
 - wilayah: "Jawa Barat"
   data:
     - kota: "Depok"
@@ -62,3 +71,16 @@
       shopee:
         nama: "Maya Store" 
         url: "https://www.shopee.com/"
+
+- wilayah: "Kalimantan Timur"
+  data:
+    - kota: "Agen Kota Balikpapan"
+      nama: "Ratih Probowani Lestari (Kayana Bookstore)"
+      nomor_telepon: 085752221893
+      nomor_wa: 085752221893
+      facebook:
+        nama: "Kayana Bookstore" 
+        url: "https://m.facebook.com/kayanabookstore/"
+      instagram:
+        nama: "@kayana_bookstore" 
+        url: "https://www.instagram.com/kayana_bookstore/"
