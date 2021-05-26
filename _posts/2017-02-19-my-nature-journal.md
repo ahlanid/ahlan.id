@@ -1,6 +1,6 @@
 ---
 title: "My Nature Journal"
-date: "2021-02-19 14:14:17 +0700"
+date: "2017-02-19 14:14:17 +0700"
 image: "/assets/images/product-3-2.png"
 author: "Kenia Dyanti & DK. Wardhani"
 halaman: "78"
