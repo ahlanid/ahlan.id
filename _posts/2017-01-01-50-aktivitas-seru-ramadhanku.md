@@ -1,6 +1,6 @@
 ---
 title: "50 Aktivitas Seru Ramadhan-ku"
-date: "2017 -01-01 14:14:17 +0700"
+date: "2017-01-01 14:14:17 +0700"
 image: "/assets/images/produk/cover-50-aktivitas-ramadanku.jpg"
 author: "Kenia Diyanti & Dk.Wardhani"
 halaman: "52"
