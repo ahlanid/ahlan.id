@@ -1,11 +1,12 @@
 title: Penerbit Ahlan
-env: "development"
-description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint."
+env: "production"
+description: "Website resmi Penerbit Ahlan"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-address: "8502 Preston Rd. - Inglewood, Maine 98380"
-facebook_url: https://www.facebook.com/
-twitter_url: https://www.twitter.com/
+address: "Jl. Cempaka No C-124, Pondok Pucung Indah I, Tangerang Selatan, Indonesia - 15229"
+facebook_url: https://www.facebook.com/penerbit.ahlan/
+twitter_url: https://www.instagram.com/sahabatahlan/
+# instagram_url: https://www.instagram.com/sahabatahlan/
 design_by: "Icons made by Pixel Perfect & Eva Icons"
 
 # Build settings
