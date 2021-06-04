@@ -3,11 +3,14 @@ env: "production"
 description: "Website resmi Penerbit Ahlan"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-address: "Jl. Cempaka No C-124, Pondok Pucung Indah I, Tangerang Selatan, Indonesia - 15229"
+address_& Contact: "Jl. Cempaka No C-124, Pondok Pucung Indah I, Tangerang Selatan, Indonesia - 15229 
+- +62 815-1682-610
+- customer.service@bukukoe.com"
 facebook_url: https://www.facebook.com/penerbit.ahlan/
 twitter_url: https://www.instagram.com/sahabatahlan/
 # instagram_url: https://www.instagram.com/sahabatahlan/
 design_by: "Icons made by Pixel Perfect & Eva Icons"
+Copyright: Copyright © Bukukoe
 
 # Build settings
 theme: minima
