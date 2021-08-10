@@ -96,10 +96,16 @@
         nama: "@bookstore.anas"
         url: ""
 
-    - kota: "Reseller Kota Jakarta Selatan"
-      nama: "protea bookstore"
+    - kota: "Agen Kota Jakarta Selatan"
+      nama: "Tirai Wisely"
       nomor_telepon: 085789560995
       nomor_wa: 085789560995
+      facebook:
+        nama: "@Proteastore"
+        url: ""
+      tokopedia:
+        nama: "@protea_store"
+        url: ""
       instagram:
         nama: "@protea.bookstore"
         url: "https://www.instagram.com/protea.bookstore/"
