@@ -6,7 +6,7 @@
       nomor_wa: 0811149712
       facebook:
         nama: "Deby Sandra Putri"
-        url: "https://www.facebook.com/"
+        url: ""
 
     - kota: "Agen Jakarta Selatan"
       nama: "Kartika Putri"
@@ -50,7 +50,7 @@
         url: "https://shopee.co.id/zengin_shop"
 
     - kota: "Agen Kota Jakarta Selatan"
-      nama: "Tri joko"
+      nama: "Tri Joko"
       nomor_telepon: 088295443010
       nomor_wa: 088295443010
       facebook:
@@ -70,6 +70,23 @@
       shopee:
         nama: "@p.i.c.k.a.b.o.o.k" 
         url: ""
+
+    - kota: "Agen Kota Jakarta Selatan"
+      nama: "Tirai Wisely"
+      nomor_telepon: 085789560995
+      nomor_wa: 085789560995
+      facebook:
+        nama: "@Proteastore"
+        url: ""
+      tokopedia:
+        nama: "@protea_store"
+        url: ""
+      instagram:
+        nama: "@protea.bookstore"
+        url: "https://www.instagram.com/protea.bookstore/"
+      shopee:
+        nama: "@tirai_wisely"
+        url: "https://shopee.co.id/tirai_wisely/"
 
     - kota: "Reseller Kota Jakarta Selatan"
       nama: "Fadhil"
@@ -107,22 +124,47 @@
         nama: "@bookstore.anas"
         url: ""
 
-    - kota: "Agen Kota Jakarta Selatan"
-      nama: "Tirai Wisely"
-      nomor_telepon: 085789560995
-      nomor_wa: 085789560995
-      facebook:
-        nama: "@Proteastore"
-        url: ""
+    - kota: "Reseller Kota Jakarta Selatan"
+      nama: "Oggy Permadi"
+      nomor_telepon: 081290331625
+      nomor_wa: 081290331625
       tokopedia:
-        nama: "@protea_store"
+        nama: "@pilarhijau"
+        url: "https://www.tokopedia.com/pilarhijau/"
+      instagram:
+        nama: "@pilar.hijau"
+        url: "https://www.instagram.com/pilar.hijau/"
+      shopee:
+        nama: "@pilar.hijau"
+        url: "https://shopee.co.id/pilar.hijau/"
+
+    - kota: "Reseller Kota Jakarta Selatan"
+      nama: "Wahyoo"
+      nomor_telepon: 08159136021
+      nomor_wa: 08159136021
+      facebook:
+        nama: "@BorderBook.Store" 
         url: ""
       instagram:
-        nama: "@protea.bookstore"
-        url: "https://www.instagram.com/protea.bookstore/"
+        nama: "@BorderBook.Store" 
+        url: ""
+
+    - kota: "Reseller Kota Jakarta Selatan"
+      nama: "Kartika Endah Kustati"
+      nomor_telepon: 087883278817
+      nomor_wa: 087883278817
+      facebook:
+        nama: "@Kartika Endah Kustati " 
+        url: ""
+      tokopedia:
+        nama: "@tokoummuabdurrahman" 
+        url: ""
+      instagram:
+        nama: "@tikaensta" 
+        url: ""
       shopee:
-        nama: "@tirai_wisely"
-        url: "https://shopee.co.id/tirai_wisely/"
+        nama: "@ummu_abdurrahman_" 
+        url: ""
 
     - kota: "Agen Kota Jakarta Timur"
       nama: "Mulyadi Putra (Solusi Muslim Agency)"
@@ -131,8 +173,8 @@
 
     - kota: "Agen Kota Jakarta Timur"
       nama: "Yusmayati Noviarini"
-      nomor_telepon: 87889899696
-      nomor_wa: 87889899696
+      nomor_telepon: 087889899696
+      nomor_wa: 087889899696
 
     - kota: "Agen Kota Jakarta Timur"
       nama: "Asteria Arnitasari"
@@ -213,9 +255,23 @@
       instagram:
         nama: "@bukucil" 
         url: "https://www.instagram.com/bukucil/"
-      facebook:
+      shopee:
         nama: "@sukma.rahayu49" 
         url: "shopee.co.id/sukma.rahayu49/"
+
+    - kota: "Reseller Kota Jakarta Timur"
+      nama: " Ayu Nabaila"
+      nomor_telepon: 081289717883
+      nomor_wa: 081289717883
+      facebook:
+        nama: "@umah bunayya" 
+        url: ""
+      instagram:
+        nama: "@umah.bunayya" 
+        url: ""
+      shopee:
+        nama: "@umahbunayya" 
+        url: ""
 
     - kota: "Agen Kota Jakarta Pusat"
       nama: "Lily Ardas"
@@ -290,48 +346,6 @@
       instagram:
         nama: "@littleabduh"
         url: "https://www.instagram.com/littleabduh/"
-
-    - kota: "Reseller Kota Jakarta Selatan"
-      nama: "Oggy Permadi"
-      nomor_telepon: 081290331625
-      nomor_wa: 081290331625
-      tokopedia:
-        nama: "@pilarhijau"
-        url: "https://www.tokopedia.com/pilarhijau/"
-      instagram:
-        nama: "@pilar.hijau"
-        url: "https://www.instagram.com/pilar.hijau/"
-      shopee:
-        nama: "@pilar.hijau"
-        url: "https://shopee.co.id/pilar.hijau/"
-
-    - kota: "Reseller Kota Jakarta Selatan"
-      nama: "Wahyoo"
-      nomor_telepon: 08159136021
-      nomor_wa: 08159136021
-      facebook:
-        nama: "@BorderBook.Store" 
-        url: ""
-      instagram:
-        nama: "@BorderBook.Store" 
-        url: ""
-
-    - kota: "Reseller Kota Jakarta Selatan"
-      nama: "Kartika Endah Kustati "
-      nomor_telepon: 087883278817
-      nomor_wa: 087883278817
-      facebook:
-        nama: "@Kartika Endah Kustati " 
-        url: ""
-      tokopedia:
-        nama: "@tokoummuabdurrahman" 
-        url: ""
-      instagram:
-        nama: "@tikaensta" 
-        url: ""
-      shopee:
-        nama: "@ummu_abdurrahman_" 
-        url: ""
 
 - wilayah: "Banten"
   data:
@@ -435,16 +449,8 @@
 
     - kota: "Reseller Tangerang Kota"
       nama: "Larasati"
-      nomor_telepon: 081283640560â€¬
-      nomor_wa: 081283640560â€¬
-      instagram:
-        nama: "@bunayya.co"
-        url: "https://www.instagram.com/bunayya.co/"
-
-    - kota: "Reseller Tangerang Kota"
-      nama: "Larasati"
-      nomor_telepon: 081283640560‬
-      nomor_wa: 081283640560‬
+      nomor_telepon: 081382704632
+      nomor_wa: 081382704632
       instagram:
         nama: "@bunayya.co" 
         url: "https://www.instagram.com/bunayya.co/"
@@ -470,17 +476,6 @@
       Shopee:
         nama: "@amini4isyah"
         url: "https://shopee.co.id/amini4isyah?smtt=0.0.9"
-
-    - kota: "Reseller Kabupaten Tangerang"
-      nama: "Jemmy Khaerunnisa Masumah"
-      nomor_telepon: 085659292623â€¬
-      nomor_wa: 085659292623â€¬
-      instagram:
-        nama: "@investbuku"
-        url: "https://www.instagram.com/investbuku/"
-      Shopee:
-        nama: "@investbuku"
-        url: "https://shopee.co.id/investbuku/"
 
     - kota: "Reseller Kabupaten Tangerang"
       nama: "Hesti"
@@ -621,6 +616,13 @@
         nama: "@laisbookstore"  
         url: ""
 
+    - kota: "Reseller Tangerang Selatan"
+      nama: "Hanifa "
+      nomor_telepon: 081293186192
+      nomor_wa: 081293186192
+      instagram:
+        nama: "@hauramuslimah.id" 
+        url: "https://www.instagram.com/hauramuslimah.id/"
 
 - wilayah: "Jawa Tengah"
   data:
@@ -789,7 +791,7 @@
         nama: "@ummushofia1"
         url: "https://shopee.co.id/ummushofia1/"
 
-    - kota: "Reseller Kota Purbalingga"
+    - kota: "Reseller Kabupaten Purbalingga"
       nama: "Riska Nur Sagita"
       nomor_telepon: 085859212600
       nomor_wa: 085859212600
@@ -800,13 +802,24 @@
         nama: "@buku.abunnada"
         url: "https://www.instagram.com/buku.abunnada/"
 
+    - kota: "Reseller Kabupaten Purbalingga"
+      nama: "GRIYA MUSLIM"
+      nomor_telepon: 081227790468
+      nomor_wa: 081227790468
+      facebook:
+        nama: "@griya.muslim.pbg"
+        url: "https://www.facebook.com/griya.muslim.pbg/"
+      instagram:
+        nama: "@griyamuslim_pbg"
+        url: ""
+
     - kota: "Agen Kota Kudus"
       nama: "Pusat Buku Sunnah"
       nomor_telepon: 08982282286
       nomor_wa: 08982282286
 
     - kota: "Reseller Kota Kudus"
-      nama: "Ainul Nadiroh  "
+      nama: "Ainul Nadiroh"
       nomor_telepon: 085727495374
       nomor_wa: 085727495374
       facebook:
@@ -1069,7 +1082,7 @@
         url: "https://www.instagram.com/yumary.bookshop/"
 
     - kota: "Reseller Kota Bandung & Sumedang"
-      nama: "Eva Noer Rachman(Ummu Azzam )"
+      nama: "Eva Noer Rachman(Ummu Azzam)"
       nomor_telepon: 081394940528
       nomor_wa: 081394940528
       instagram:
@@ -1203,6 +1216,23 @@
         nama: "@Loka Pustaka Harci" 
         url: ""
 
+    - kota: "Agen Kota Depok"
+      nama: "Habibah Rahmah"
+      nomor_telepon: 081362275324
+      nomor_wa: 081362275324
+      facebook:
+        nama: "@Anum Bookstore" 
+        url: ""
+      tokopedia:
+        nama: "@Anum Bookstore" 
+        url: "https://tokopedia.link/anumbookstore/"
+      instagram:
+        nama: "@anum_bookstore" 
+        url: ""
+      shopee:
+        nama: "@Anum Bookstore" 
+        url: "shopee.co.id/bibibbb13/"
+
     - kota: "Reseller Kota Depok"
       nama: "Intan"
       nomor_telepon: 081233955448
@@ -1242,7 +1272,7 @@
         url: "www.shopee.com/onnanoko89/"
 
     - kota: "Reseller Kota Depok"
-      nama: "Intan"
+      nama: "Hana"
       nomor_telepon: 081326145844
       nomor_wa: 081326145844
       instagram:
@@ -1557,6 +1587,17 @@
         nama: "@Anisah Azkiya"
         url: ""
 
+    - kota: "Agen Kabupaten Cirebon"
+      nama: "Ika Mustika"
+      nomor_telepon: 089526573284
+      nomor_wa: 089526573284
+      facebook:
+        nama: "@ika mustika"
+        url: ""
+      instagram:
+        nama: "@bookstore.qu"
+        url: ""
+
     - kota: "Reseller Kabupaten Cirebon"
       nama: "Nadia Sabrina"
       nomor_telepon: 087824452828
@@ -1566,7 +1607,7 @@
         url: ""
 
     - kota: "Agen Kota Bogor"
-      nama: "Retnadi Nurâ€™aini"
+      nama: "Retnadi Nuraini"
       nomor_telepon: 087874143729
       nomor_wa: 087874143729
 
@@ -1678,6 +1719,17 @@
       nama: "Ika Rokhmatul Aliyah"
       nomor_telepon: 081808054012
       nomor_wa: 081808054012
+
+    - kota: "Reseller Kota Cimahi"
+      nama: "Melly"
+      nomor_telepon: 085524707458
+      nomor_wa: 085524707458
+      instagram:
+        nama: "@mueezabookstore"
+        url: ""
+      shopee:
+        nama: "@mueeza_bookstore"
+        url: ""
 
     - kota: "Reseller Kota Purwakarta"
       nama: "Salfa"
@@ -1812,6 +1864,20 @@
         nama: "@shestore_sis"
         url: "https://shopee.co.id/shestore_sis/"
 
+    - kota: "Reseller Kabupaten Banyuwangi"
+      nama: "Ekky"
+      nomor_telepon: 081336393696
+      nomor_wa: 081336393696
+      facebook:
+        nama: "@Billah Teman Bacaku"
+        url: ""
+      instagram:
+        nama: "@Billah.kids"
+        url: ""
+      shopee:
+        nama: "@Billah.kids"
+        url: ""
+
     - kota: "Agen Kota Mojokerto"
       nama: "Eka Kaeruni"
       nomor_telepon: 081252343277
@@ -1883,15 +1949,6 @@
       tokopedia:
         nama: "@ilmseed" 
         url: "https://www.tokopedia.com/ilmseed/"
-
-
-    - kota: "Reseller Kota Surabaya"
-      nama: "Nur Safira"
-      nomor_telepon: 082009723309
-      nomor_wa: 082009723309
-      instagram:
-        nama: "@ilmseed"
-        url: ""
 
     - kota: "Reseller Kota Surabaya"
       nama: "Arin"
@@ -2016,6 +2073,17 @@
         nama: "@zaredgalery"
         url: ""
 
+    - kota: "Reseller Kota Jember"
+      nama: "Nadiah Sabrina Himam"
+      nomor_telepon:  082244423422
+      nomor_wa:  082244423422
+      tokopedia:
+        nama: "@eena.books"
+        url: ""
+      instagram:
+        nama: "@eena.books"
+        url: ""
+
     - kota: "Reseller Kota Gresik"
       nama: "Athfa.store (Hakiki Rahmasari)"
       nomor_telepon: 085655447547
@@ -2025,6 +2093,17 @@
         url: ""
       shopee:
         nama: "@Athfa.store"
+        url: ""
+
+    - kota: "Reseller Kota Gresik"
+      nama: "Sidha Rahmasari"
+      nomor_telepon: 082244501731
+      nomor_wa: 082244501731
+      facebook:
+        nama: "@Sidha Rahmasari"
+        url: ""
+      instagram:
+        nama: "@Rahmasarisidha"
         url: ""
 
 - wilayah: "Yogyakarta"
@@ -2133,12 +2212,26 @@
         nama: "@bungkusbukubagus"
         url: "https://www.instagram.com/bungkusbukubagus/"
 
+    - kota: "Agen Kabupaten Bantul"
+      nama: "Ratih"
+      nomor_telepon: 085729883511
+      nomor_wa: 085729883511
+      tokopedia:
+        nama: "@pegangbuku.id"
+        url: ""
+      instagram:
+        nama: "@pegangbuku.id"
+        url: ""
+      shopee:
+        nama: "@cantikayuaisha"
+        url: ""
+
     - kota: "Agen Kota Yogyakarta"
       nama: "Agen sarana hidayah"
       nomor_telepon: 0817263316
       nomor_wa: 0817263316
 
-    - kota: "Agen Kabupaten Yogyakarta"
+    - kota: "Agen Kota Yogyakarta"
       nama: "Dian Agustiani"
       nomor_telepon: 087738999238
       nomor_wa: 087738999238
@@ -2174,17 +2267,6 @@
         url: ""
 
     - kota: "Reseller Kota Yogyakarta"
-      nama: "Octaviani Kusumaning"
-      nomor_telepon:
-      nomor_wa:
-      facebook:
-        nama: "@pustakasawokecik"
-        url: "https://www.facebook.com/pustakasawokecik/"
-      instagram:
-        nama: "@pustakasawokecik_jogja"
-        url: "https://www.instagram.com/pustakasawokecik_jogja/"
-
-    - kota: "Reseller Kota Yogyakarta & Karanganyar"
       nama: "Syarif Mustaqim"
       nomor_telepon: 085643266668
       nomor_wa: 085643266668
@@ -2308,7 +2390,7 @@
         url: "https://www.instagram.com/primamedia.sgt/"
 
     - kota: "Agen Kota Bontang & Samarinda"
-      nama: "Ayu Astuti "
+      nama: "Ayu Astuti"
       nomor_telepon: 08115456474
       nomor_wa: 08115456474
       instagram:
