@@ -2,7 +2,7 @@
 title: "Kalender 2022"
 date: "2021-10-15 14:14:17 +0700"
 image: "/assets/images/produk/cover-Kalender-Ahlan-2022.jpeg"
-author: "Innerchild"
+author: "Penerbit Ahlan"
 halaman: ""
 isbn: ""
 bahasa: "Indonesia"
