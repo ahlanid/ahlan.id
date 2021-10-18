@@ -851,11 +851,6 @@
         nama: "@lebahkecil.id"
         url: "https://www.instagram.com/lebahkecil.id/"
 
-    - kota: "Reseller Kota Sukoharjo"
-      nama: "Arie"
-      nomor_telepon:
-      nomor_wa:
-
     - kota: "Agen Kota Salatiga"
       nama: "Risa"
       nomor_telepon: 082324650350
@@ -2225,6 +2220,11 @@
       shopee:
         nama: "@cantikayuaisha"
         url: ""
+
+    - kota: "Agen Kabupaten Bantul"
+      nama: "Silvia Rika"
+      nomor_telepon: 0811267812
+      nomor_wa: 0811267812
 
     - kota: "Agen Kota Yogyakarta"
       nama: "Agen sarana hidayah"
