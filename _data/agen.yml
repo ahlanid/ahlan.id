@@ -2291,6 +2291,20 @@
         nama: "@bacaankita" 
         url: ""
 
+    - kota: "Agen Kota Yogyakarta"
+      nama: "Bacaankoe"
+      nomor_telepon: 085741080185
+      nomor_wa: 085741080185
+      facebook:
+        nama: "@Bacaankoe" 
+        url: ""
+      instagram:
+        nama: "@bacaankoe" 
+        url: ""
+      shopee:
+        nama: "@Bakulbuku" 
+        url: ""
+
     - kota: "Reseller Kota Yogyakarta"
       nama: "Syarif Mustaqim"
       nomor_telepon: 085643266668
