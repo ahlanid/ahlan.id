@@ -1,7 +1,7 @@
 ---
 title: "Serial Talqin Akhlak Anak : Kakek Tersayang"
 date: "2021-10-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Serial-Talqin-Akhlak-Anak _ Kakek-Tersayang.jpeg"
+image: "/assets/images/produk/Cover-Serial-Talqin-Akhlak-Anak _ Kakek-Tersayang.jpg"
 author: "Abunnada"
 halaman: "20"
 isbn: ""
@@ -12,7 +12,7 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/isi-Serial-Talqin-Akhlak-Anak _ Kakek-Tersayang.jpg"
+    image: "/assets/images/produk/isi-Serial-Talqin-Akhlak-Anak _ Kakek-Tersayang.png"
   - title: "slide B"
     image: ""
   - title: "slide C"

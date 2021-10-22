@@ -1,7 +1,7 @@
 ---
 title: "Seri Emosi Anak 1-4 (Set), Ahlan"
 date: "2021-10-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Seri-Emosi-Anak-1-4(Set),Ahlan.jpeg"
+image: "/assets/images/produk/Cover-Seri-Emosi-Anak-1-4(Set),Ahlan.jpg"
 author: "Za Ummu Raihan"
 halaman: "24 hal/buku"
 isbn: ""
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/isi-seri-emosi-1.jpg"
+    image: "/assets/images/produk/isi-seri-emosi-1.png"
   - title: "slide B"
-    image: "/assets/images/produk/isi-seri-emosi-2.jpg"
+    image: "/assets/images/produk/isi-seri-emosi-2.png"
   - title: "slide C"
-    image: "/assets/images/produk/isi-seri-emosi-3.jpg"
+    image: "/assets/images/produk/isi-seri-emosi-3.png"
   - title: "slide D"
     image: "/assets/images/produk/isi-seri-emosi-4.jpg"
 ---

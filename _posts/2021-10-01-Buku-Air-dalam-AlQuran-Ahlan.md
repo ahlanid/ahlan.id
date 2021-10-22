@@ -1,7 +1,7 @@
 ---
 title: "Buku Air dalam AlQuran"
 date: "2021-10-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Buku-Air-dalam-AlQuran-Ahlan.jpeg"
+image: "/assets/images/produk/Cover-Buku-Air-dalam-AlQuran-Ahlan.jpg"
 author: "Abunnada"
 halaman: "44"
 isbn: ""
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/Isi-Buku-Air-dalam-AlQuran-Ahlan-1.jpeg"
+    image: "/assets/images/produk/Isi-Buku-Air-dalam-AlQuran-Ahlan-1.jpg"
   - title: "slide B"
-    image: "/assets/images/produk/Isi-Buku-Air-dalam-AlQuran-Ahlan-2.jpeg"
+    image: "/assets/images/produk/Isi-Buku-Air-dalam-AlQuran-Ahlan-2.jpg"
   - title: "slide C"
-    image: "/assets/images/produk/Isi-Buku-Air-dalam-AlQuran-Ahlan-3.jpeg"
+    image: "/assets/images/produk/Isi-Buku-Air-dalam-AlQuran-Ahlan-3.jpg"
 ---
 
 Alhamdulillah cetak ulang lagi dengan versi softcover dan harga yang lebih ekonomis 🤗🤗

@@ -1,7 +1,7 @@
 ---
 title: "Kalender 2022"
 date: "2021-10-15 14:14:17 +0700"
-image: "/assets/images/produk/cover-Kalender-Ahlan-2022.jpeg"
+image: "/assets/images/produk/cover-Kalender-Ahlan-2022.jpg"
 author: "Penerbit Ahlan"
 halaman: ""
 isbn: ""
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/isi-kalender-2022.jpg"
+    image: "/assets/images/produk/isi-kalender-2022.png"
   - title: "slide B"
-    image: "/assets/images/produk/isi-kalender-2020-2.jpg"
+    image: "/assets/images/produk/isi-kalender-2020-2.png"
   - title: "slide C"
-    image: "/assets/images/produk/isi-kalender-2020-3.jpg"
+    image: "/assets/images/produk/isi-kalender-2020-3.png"
 ---
 
 📌 Belajar dari Para Ulama, Yuk Semangat Menuntut Ilmu! 

@@ -1,7 +1,7 @@
 ---
 title: "Anak Islam Belajar Angka 123 (Boardbook), Ahlan"
 date: "2021-10-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan.jpeg"
+image: "/assets/images/produk/Cover-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan.jpg"
 author: ""
 halaman: "10"
 isbn: ""
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-1.jpg"
+    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-1.png"
   - title: "slide B"
-    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-2.jpg"
+    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-3.png"
 ---
 
 Anak Islam Belajar Angka 123 (Boardbook)

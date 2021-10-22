@@ -215,6 +215,17 @@
         nama: "@ar.silvani"
         url: "https://shopee.co.id/ar.silvani/"
 
+    - kota: "Agen Kota Jakarta Timur"
+      nama: "umm nafisah"
+      nomor_telepon: 089636924467
+      nomor_wa: 089636924467
+      facebook:
+        nama: "@fadiaaah"
+        url: ""
+      instagram:
+        nama: "@fadiaaah"
+        url: "https://www.instagram.com/fadiaaah/"
+
     - kota: "Reseller Kota Jakarta Timur"
       nama: "Dian"
       nomor_telepon: 08988058709
@@ -225,17 +236,6 @@
       instagram:
         nama: "@Dian cahaya"
         url: ""
-
-    - kota: "Reseller Kota Jakarta Timur"
-      nama: "umm nafisah"
-      nomor_telepon: 089636924467
-      nomor_wa: 089636924467
-      facebook:
-        nama: "@fadiaaah"
-        url: ""
-      instagram:
-        nama: "@fadiaaah"
-        url: "https://www.instagram.com/fadiaaah/"
 
     - kota: "Reseller Kota Jakarta Timur"
       nama: "Puput Lismawati"
@@ -455,6 +455,17 @@
         nama: "@bunayya.co" 
         url: "https://www.instagram.com/bunayya.co/"
 
+    - kota: "Agen Kabupaten Tangerang"
+      nama: "Aisyah amini (Haurra book store)"
+      nomor_telepon: 087728484119
+      nomor_wa: 087728484119
+      instagram:
+        nama: "@haurrabooks_store"
+        url: "https://instagram.com/haurrabooks_store?igshid=1h3w1m03xxdwa"
+      Shopee:
+        nama: "@amini4isyah"
+        url: "https://shopee.co.id/amini4isyah?smtt=0.0.9"
+
     - kota: "Reseller Kabupaten Tangerang"
       nama: "Jemmy Khaerunnisa Masumah"
       nomor_telepon: 085659292623‬
@@ -465,17 +476,6 @@
       Shopee:
         nama: "@investbuku" 
         url: "https://shopee.co.id/investbuku/"
-
-    - kota: "Reseller Kabupaten Tangerang"
-      nama: "Aisyah amini (Haurra book store)"
-      nomor_telepon: 087728484119
-      nomor_wa: 087728484119
-      instagram:
-        nama: "@haurrabooks_store"
-        url: "https://instagram.com/haurrabooks_store?igshid=1h3w1m03xxdwa"
-      Shopee:
-        nama: "@amini4isyah"
-        url: "https://shopee.co.id/amini4isyah?smtt=0.0.9"
 
     - kota: "Reseller Kabupaten Tangerang"
       nama: "Hesti"
@@ -1228,6 +1228,31 @@
         nama: "@Anum Bookstore" 
         url: "shopee.co.id/bibibbb13/"
 
+    - kota: "Agen Kota Depok"
+      nama: "anindya kirana"
+      nomor_telepon: 081310401226
+      nomor_wa: 081310401226
+      instagram:
+        nama: "@my.littlemuslim"
+        url: "https://www.instagram.com/my.littlemuslim/"
+
+    - kota: "Agen Kota Depok"
+      nama: "Fitrina Kamalia"
+      nomor_telepon: 081332878767
+      nomor_wa: 081332878767
+      facebook:
+        nama: "@Eduplaykid"
+        url: ""
+      tokopedia:
+        nama: "@Eduplaykid"
+        url: ""
+      instagram:
+        nama: "@Eduplaykid"
+        url: ""
+      shopee:
+        nama: "@Eduplaykid"
+        url: ""
+
     - kota: "Reseller Kota Depok"
       nama: "Intan"
       nomor_telepon: 081233955448
@@ -1273,14 +1298,6 @@
       instagram:
         nama: "@fahambookstore"
         url: "https://www.instagram.com/fahambookstore/"
-
-    - kota: "Reseller Kota Depok"
-      nama: "anindya kirana"
-      nomor_telepon: 081310401226
-      nomor_wa: 081310401226
-      instagram:
-        nama: "@my.littlemuslim"
-        url: "https://www.instagram.com/my.littlemuslim/"
 
     - kota: "Reseller Kota Depok"
       nama: "Aneke & Tiara"
@@ -1452,6 +1469,14 @@
         url: ""
       instagram:
         nama: "@WarungAraBookstore"
+        url: ""
+
+    - kota: "Reseller Kota Bekasi"
+      nama: "Shenny"
+      nomor_telepon: 081317747043
+      nomor_wa: 081317747043
+      instagram:
+        nama: "@toko.kiara"
         url: ""
 
     - kota: "Agen Kabupaten Karawang"
@@ -2326,6 +2351,17 @@
         nama: "@kayana_bookstore"
         url: "https://www.instagram.com/kayana_bookstore/"
 
+    - kota: "Agen Kota Balikpapan"
+      nama: "Big Borneo Bear"
+      nomor_telepon: 08158704715
+      nomor_wa: 08158704715
+      facebook:
+        nama: "@bigborneobear"
+        url: ""
+      instagram:
+        nama: "@big_borneo_bear"
+        url: "https://www.instagram.com/big_borneo_bear/"
+
     - kota: "Reseller Kota Balikpapan"
       nama: "Eko Sri Oetami"
       nomor_telepon: 081347090826
@@ -2336,17 +2372,6 @@
       instagram:
         nama: "@farahgalerimuslim"
         url: "https://www.instagram.com/farahgalerimuslim/"
-
-    - kota: "Reseller Kota Balikpapan"
-      nama: "Big Borneo Bear"
-      nomor_telepon: 08158704715
-      nomor_wa: 08158704715
-      facebook:
-        nama: "@bigborneobear"
-        url: ""
-      instagram:
-        nama: "@big_borneo_bear"
-        url: "https://www.instagram.com/big_borneo_bear/"
 
     - kota: "Reseller Kota Balikpapan"
       nama: "Manda LiterabyID"

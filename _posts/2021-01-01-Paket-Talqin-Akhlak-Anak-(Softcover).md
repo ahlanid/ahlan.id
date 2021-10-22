@@ -1,7 +1,7 @@
 ---
 title: "Paket Talqin Akhlak Anak (Softcover)"
 date: "2021-01-01 14:14:17 +0700"
-image: "/home/beta/ahlan.id/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpeg"
+image: "/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpg"
 author: "Abunnada"
 halaman: "24 halaman/buku"
 isbn: ""
@@ -12,15 +12,15 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/home/beta/ahlan.id/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)1.jpeg"
+    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)1.png"
   - title: "slide B"
-    image: "/home/beta/ahlan.id/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)2.jpeg"
+    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)2.png"
   - title: "slide C"
-    image: "/home/beta/ahlan.id/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)3.jpeg"
+    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)3.png"
   - title: "slide D"
-    image: "/home/beta/ahlan.id/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)4.jpeg"
+    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)4.png"
   - title: "slide E"
-    image: "/home/beta/ahlan.id/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)5.jpeg"
+    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)5.png"
 ---
 
 PAKET TALQIN AKHLAK ANAK SOFTCOVER
