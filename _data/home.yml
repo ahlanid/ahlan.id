@@ -12,12 +12,12 @@ headers:
     alt: "Minal Alif Ilal Ya: Ahlak Mulia"    
 
 coming_soon:
-  - image: /assets/images/hero-1.png
-    title: Handbook Pubertas Muslim dan Muslimah
-    url: "#"
+  - image: /assets/images/space-rocket-1.png
+    title: Sayembara Menulis Ahlan 2021
+    url: "/kabar/Sayembara-Menulis-Ahlan-2021"
 
   - image: /assets/images/hero-2.png
-    title: Seri Emosi
+    title: Serial Emosi
     url: "#"
 
 recomendation:

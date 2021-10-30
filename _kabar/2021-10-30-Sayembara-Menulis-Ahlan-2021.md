@@ -1,7 +1,7 @@
 ---
 title: "Sayembara Menulis Ahlan 2021"
 date: "2021-10-30 14:14:17 +0700"
-image: "/assets/images/kabar/sayembara-menulis-ahlan-2021.jpeg"
+image: "/assets/images/kabar/sayembara-menulis-ahlan-2021.jpg"
 categories: "Lomba"
 ---
 
@@ -41,7 +41,7 @@ Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!
 
 Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 
-## Ketentuan Umum
+## <a name="ketentuan"></a>Ketentuan Umum
 
 1. Peserta adalah anak usia 9-15 tahun (dibuktikan dengan scan akte kelahiran).
 2. Naskah berdasar kisah nyata (bukan fiksi atau fantasi).
