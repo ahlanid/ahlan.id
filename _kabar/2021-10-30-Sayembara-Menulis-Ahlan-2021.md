@@ -26,20 +26,15 @@ Raih hadiah seru dan kesempatan menerbitkan karya kalian berupa buku!
 
 **Juara 3: Uang tunai Rp300.000**
 
-Seluruh peserta mendapatkan kesempatan penerbitan buku.
-
-Naskah yang terpilih untuk dimuat di buku berhak mendapat royalti penjualan.
+Seluruh peserta mendapatkan kesempatan penerbitan buku. Naskah yang terpilih untuk dimuat di buku berhak mendapat royalti penjualan.
 
 Detil ketentuan dapat dilihat di poster atau klik link berikut ini:<br />
-<button type="button" class="btn btn-info" href="https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan">https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan</button>
+[https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan](https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan)
 
+Yup, tunggu apa lagi? Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!<br />
+[Kirim Karyamu](https://forms.gle/RxFhad7LpXUFU5yB9)
 
-Yup, tunggu apa lagi?
-
-Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!<br />
-<button type="button" class="btn btn-primary" href="https://forms.gle/RxFhad7LpXUFU5yB9">Kirim Karyamu</button>
-
-Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
+Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
 
 # Ketentuan
 ## Ketentuan Umum
@@ -54,7 +49,7 @@ Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 1. Setiap peserta hanya diperbolehkan mengirim satu naskah/karya.
 1. Naskah disertai berkas:
     a. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: <br />
-    <button type="button" class="btn btn-info" href="https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx">Unduh Template Surat Pernyataan Keaslian</button>
+    [Unduh Template Surat Pernyataan Keaslian](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
     b. Scan akte kelahiran
 1. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
 1. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
@@ -82,11 +77,7 @@ Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 1. Ayahku/Ibuku Tersayang
 2. Aku dan Al Qur’an
 3. Belajarku di Masa Pandemi
-<ol>
-  <li>Ayahku/Ibuku Tersayang</li>
-  <li>Aku dan Al Qur’an</li>
-  <li>Belajarku di Masa Pandemi</li>
-</ol>
+
 **Usia 12-15 tahun**
 1. Aku dan Sahabatku
 2. Gadget Untuk Kebaikan
