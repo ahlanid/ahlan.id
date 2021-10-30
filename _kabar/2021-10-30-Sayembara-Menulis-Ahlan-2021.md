@@ -41,22 +41,24 @@ Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!
 
 Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 
-## <a name="ketentuan"></a>Ketentuan Umum
+# Ketentuan
+## Ketentuan Umum
+
 
 1. Peserta adalah anak usia 9-15 tahun (dibuktikan dengan scan akte kelahiran).
-2. Naskah berdasar kisah nyata (bukan fiksi atau fantasi).
-3. Naskah harus orisinal, bukan saduran atau plagiat.
-4. Tata bahasa disesuaikan untuk pembaca usia 9-15 tahun.
-5. Penilaian naskah mencakup kesesuaian tema, isi, teknik, dan gaya penulisan, serta penggunaan bahasa (harus memenuhi kesesuaian kaidah dan keterbacaan).
-6. Isi harus memiliki unsur edukasi dan nilai-nilai Islami. 
-7. Isi tidak mengandung isu suku, agama, ras, dan antargolongan (sara) yang negatif, tidak mengandung unsur pornografi, tidak bias gender, dan tidak berunsur kekerasan.
-8. Setiap peserta hanya diperbolehkan mengirim satu naskah/karya.
-9. Naskah disertai berkas:
+1. Naskah berdasar kisah nyata (bukan fiksi atau fantasi).
+1. Naskah harus orisinal, bukan saduran atau plagiat.
+1. Tata bahasa disesuaikan untuk pembaca usia 9-15 tahun.
+1. Penilaian naskah mencakup kesesuaian tema, isi, teknik, dan gaya penulisan, serta penggunaan bahasa (harus memenuhi kesesuaian kaidah dan keterbacaan).
+1. Isi harus memiliki unsur edukasi dan nilai-nilai Islami. 
+1. Isi tidak mengandung isu suku, agama, ras, dan antargolongan (sara) yang negatif, tidak mengandung unsur pornografi, tidak bias gender, dan tidak berunsur kekerasan.
+1. Setiap peserta hanya diperbolehkan mengirim satu naskah/karya.
+1. Naskah disertai berkas:
     a. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: [https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
     b. Scan akte kelahiran
-10. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
-11. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
-12. Hasil penilaian dan penyeleksian tidak dapat diganggu gugat.
+1. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
+1. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
+1. Hasil penilaian dan penyeleksian tidak dapat diganggu gugat.
        
 ## Ketentuan Khusus:
 
