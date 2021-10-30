@@ -8,15 +8,15 @@ categories: "Lomba"
 Assalamu'alaikum teman-teman.
 
 <div class="alert alert-warning" role="alert">
-Apakah kalian anak muslim berusia 9-15 tahun?
-Suka menulis cerita?
-Menyukai tantangan baru?
+Apakah kalian anak muslim berusia 9-15 tahun?<br />
+Suka menulis cerita?<br />
+Menyukai tantangan baru?<br />
 Ingin punya karya yang diterbitkan berupa buku?
 </div>
 
-Ini dia saat yang tepat mengasah dan menunjukkan bakat menulismu. 
+Ini dia saat yang tepat mengasah dan menunjukkan **bakat menulismu**. 
 
-Penerbit AHLAN sedang mencari penulis cilik untuk ikut serta dalam "Sayembara Menulis Ahlan 2021".
+Penerbit Ahlan sedang mencari penulis cilik untuk ikut serta dalam **"Sayembara Menulis Ahlan 2021"**.
 
 Raih hadiah seru dan kesempatan menerbitkan karya kalian berupa buku!
    
@@ -31,13 +31,13 @@ Seluruh peserta mendapatkan kesempatan penerbitan buku.
 Naskah yang terpilih untuk dimuat di buku berhak mendapat royalti penjualan.
 
 Detil ketentuan dapat dilihat di poster atau klik link berikut ini:<br />
-<button type="button" class="btn btn-light" href="https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan">https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan</button>
+<button type="button" class="btn btn-info" href="https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan">https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan</button>
 
 
 Yup, tunggu apa lagi?
 
 Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!<br />
-<button type="button" class="btn btn-primary" href="https://forms.gle/RxFhad7LpXUFU5yB9">https://forms.gle/RxFhad7LpXUFU5yB9</button>
+<button type="button" class="btn btn-primary" href="https://forms.gle/RxFhad7LpXUFU5yB9">Kirim Karyamu</button>
 
 Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 
@@ -53,7 +53,8 @@ Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 1. Isi tidak mengandung isu suku, agama, ras, dan antargolongan (sara) yang negatif, tidak mengandung unsur pornografi, tidak bias gender, dan tidak berunsur kekerasan.
 1. Setiap peserta hanya diperbolehkan mengirim satu naskah/karya.
 1. Naskah disertai berkas:
-    a. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: [https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
+    a. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: <br />
+    <button type="button" class="btn btn-info" href="https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx">Unduh Template Surat Pernyataan Keaslian</button>
     b. Scan akte kelahiran
 1. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
 1. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
