@@ -5,14 +5,14 @@ image: "/assets/images/kabar/sayembara-menulis-ahlan-2021.jpg"
 categories: "Lomba"
 ---
 
-# SAYEMBARA MENULIS AHLAN 2021
-
 Assalamu'alaikum teman-teman.
 
+<div class="alert alert-warning" role="alert">
 Apakah kalian anak muslim berusia 9-15 tahun?
 Suka menulis cerita?
 Menyukai tantangan baru?
 Ingin punya karya yang diterbitkan berupa buku?
+</div>
 
 Ini dia saat yang tepat mengasah dan menunjukkan bakat menulismu. 
 
@@ -30,20 +30,19 @@ Seluruh peserta mendapatkan kesempatan penerbitan buku.
 
 Naskah yang terpilih untuk dimuat di buku berhak mendapat royalti penjualan.
 
-Detil ketentuan dapat dilihat di poster atau klik link berikut ini:
-[https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan](https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan)
+Detil ketentuan dapat dilihat di poster atau klik link berikut ini:<br />
+<button type="button" class="btn btn-light" href="https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan">https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan</button>
 
 
 Yup, tunggu apa lagi?
 
-Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!
-[https://forms.gle/RxFhad7LpXUFU5yB9](https://forms.gle/RxFhad7LpXUFU5yB9)
+Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!<br />
+<button type="button" class="btn btn-primary" href="https://forms.gle/RxFhad7LpXUFU5yB9">https://forms.gle/RxFhad7LpXUFU5yB9</button>
 
 Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 
 # Ketentuan
 ## Ketentuan Umum
-
 
 1. Peserta adalah anak usia 9-15 tahun (dibuktikan dengan scan akte kelahiran).
 1. Naskah berdasar kisah nyata (bukan fiksi atau fantasi).
@@ -82,7 +81,11 @@ Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 1. Ayahku/Ibuku Tersayang
 2. Aku dan Al Qur’an
 3. Belajarku di Masa Pandemi
-
+<ol>
+  <li>Ayahku/Ibuku Tersayang</li>
+  <li>Aku dan Al Qur’an</li>
+  <li>Belajarku di Masa Pandemi</li>
+</ol>
 **Usia 12-15 tahun**
 1. Aku dan Sahabatku
 2. Gadget Untuk Kebaikan
