@@ -2144,14 +2144,14 @@ a:hover {
 /* SETTING TYPE LIST = TANPA ICON */
 #main-page .article-body ul {
     padding: 0px;
-    list-style-type: none;
+    # list-style-type: none;
 }
 #main-page .article-body ul li {
     margin-bottom: 12px;
 }
 #main-page .article-body ol {
     padding: 0px;
-    list-style-type: none;
+    # list-style-type: none;
 }
 #main-page .article-body ol li {
     margin-bottom: 12px;

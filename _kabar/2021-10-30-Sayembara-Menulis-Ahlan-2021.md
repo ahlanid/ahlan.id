@@ -5,18 +5,18 @@ image: "/assets/images/kabar/sayembara-menulis-ahlan-2021.jpg"
 categories: "Lomba"
 ---
 
-# SAYEMBARA MENULIS AHLAN 2021
-
 Assalamu'alaikum teman-teman.
 
-Apakah kalian anak muslim berusia 9-15 tahun?
-Suka menulis cerita?
-Menyukai tantangan baru?
+<div class="alert alert-warning" role="alert">
+Apakah kalian anak muslim berusia 9-15 tahun?<br />
+Suka menulis cerita?<br />
+Menyukai tantangan baru?<br />
 Ingin punya karya yang diterbitkan berupa buku?
+</div>
 
-Ini dia saat yang tepat mengasah dan menunjukkan bakat menulismu. 
+Ini dia saat yang tepat mengasah dan menunjukkan **bakat menulismu**. 
 
-Penerbit AHLAN sedang mencari penulis cilik untuk ikut serta dalam "Sayembara Menulis Ahlan 2021".
+Penerbit Ahlan sedang mencari penulis cilik untuk ikut serta dalam **"Sayembara Menulis Ahlan 2021"**.
 
 Raih hadiah seru dan kesempatan menerbitkan karya kalian berupa buku!
    
@@ -26,22 +26,18 @@ Raih hadiah seru dan kesempatan menerbitkan karya kalian berupa buku!
 
 **Juara 3: Uang tunai Rp300.000**
 
-Seluruh peserta mendapatkan kesempatan penerbitan buku.
+Seluruh peserta mendapatkan kesempatan penerbitan buku. Naskah yang terpilih untuk dimuat di buku berhak mendapat royalti penjualan.
 
-Naskah yang terpilih untuk dimuat di buku berhak mendapat royalti penjualan.
-
-Detil ketentuan dapat dilihat di poster atau klik link berikut ini:
+Detil ketentuan dapat dilihat di poster atau klik link berikut ini:<br />
 [https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan](https://ahlan.id/kabar/Sayembara-Menulis-Ahlan-2021#ketentuan)
 
+Yup, tunggu apa lagi? Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!<br />
+[Kirim Karyamu](https://forms.gle/RxFhad7LpXUFU5yB9)
 
-Yup, tunggu apa lagi?
+Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
 
-Segera daftarkan diri dan kirimkan karya kalian melalui tautan di bawah ini!
-[https://forms.gle/RxFhad7LpXUFU5yB9](https://forms.gle/RxFhad7LpXUFU5yB9)
-
-Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
-
-## <a name="ketentuan"></a>Ketentuan Umum
+# Ketentuan
+## Ketentuan Umum
 
 1. Peserta adalah anak usia 9-15 tahun (dibuktikan dengan scan akte kelahiran).
 2. Naskah berdasar kisah nyata (bukan fiksi atau fantasi).
@@ -52,11 +48,17 @@ Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 7. Isi tidak mengandung isu suku, agama, ras, dan antargolongan (sara) yang negatif, tidak mengandung unsur pornografi, tidak bias gender, dan tidak berunsur kekerasan.
 8. Setiap peserta hanya diperbolehkan mengirim satu naskah/karya.
 9. Naskah disertai berkas:
+<<<<<<< HEAD
     
     a. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: [https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
     
     b. Scan akte kelahiran
 
+=======
+    1. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: <br />
+    [Unduh Template Surat Pernyataan Keaslian](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
+    2. Scan akte kelahiran
+>>>>>>> 6db7fbd4179e57067f334f7005e88ea44013b37b
 10. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
 11. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
 12. Hasil penilaian dan penyeleksian tidak dapat diganggu gugat.
@@ -64,11 +66,16 @@ Bersiaplah menjadi generasi penulis cilik penerbit Ahlan
 ## Ketentuan Khusus:
 
 1. Panjang naskah:
+<<<<<<< HEAD
 
     a. Usia 9-11 tahun = 2-4 halaman A4
 
     b. Usia 12-15 tahun = 3-5 halaman A4
 
+=======
+    1. Usia 9-11 tahun = 2-4 halaman A4
+    2. Usia 12-15 tahun = 3-5 halaman A4
+>>>>>>> 6db7fbd4179e57067f334f7005e88ea44013b37b
 2. Jenis huruf Times New Roman dengan ukuran 12.
 3. Spasi 1,5.
 4. Margin kanan/kiri: 1,5cm/1 cm.
