@@ -88,6 +88,23 @@
         nama: "@tirai_wisely"
         url: "https://shopee.co.id/tirai_wisely/"
 
+    - kota: "Agen Kota Jakarta Selatan"
+      nama: "Hahagoodie"
+      nomor_telepon: 08976501100
+      nomor_wa: 08976501100
+      facebook:
+        nama: "@Hahagoodie"
+        url: ""
+      tokopedia:
+        nama: "@hahagoodie"
+        url: "tokopedia.com/hahagoodie"
+      instagram:
+        nama: "@katalog.hahagoodie"
+        url: ""
+      shopee:
+        nama: "@hahagoodie"
+        url: "https://shopee.co.id/hahagoodie"
+
     - kota: "Reseller Kota Jakarta Selatan"
       nama: "Fadhil"
       nomor_telepon: 082333872239
@@ -1251,6 +1268,14 @@
         url: ""
       shopee:
         nama: "@Eduplaykid"
+        url: ""
+
+    - kota: "Agen Kota Depok"
+      nama: "Hana Novita Maryam/Hasanah.book"
+      nomor_telepon: 08121842728
+      nomor_wa: 08121842728
+      shopee:
+        nama: "@Aghnalibrary"
         url: ""
 
     - kota: "Reseller Kota Depok"
