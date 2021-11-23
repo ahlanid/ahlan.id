@@ -742,6 +742,17 @@
         nama: "@hayyin_bookstore" 
         url: ""
 
+    - kota: "Agen Kabupaten Semarang (Ungaran)"
+      nama: "Yeny kusuma Wardhani"
+      nomor_telepon: 085640083600
+      nomor_wa: 085640083600
+      instagram:
+        nama: "@mrm_outlet" 
+        url: ""
+      shopee:
+        nama: "@mrm_galery" 
+        url: ""
+
     - kota: "Reseller Kabupaten Semarang(Ungaran)"
       nama: "Eka Putri Masrani Aprililiyanti"
       nomor_telepon: 082265047694
@@ -907,7 +918,6 @@
       instagram:
         nama: "@berkah.rayastore"
         url: ""
-
 
 - wilayah: "Jawa Barat"
   data:
