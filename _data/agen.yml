@@ -900,6 +900,15 @@
         nama: "@irvianazmi"
         url: "https://www.instagram.com/irvianazmi/"
 
+    - kota: "Reseller Cilacap Tengah"
+      nama: "Raya Store"
+      nomor_telepon: 089516692436
+      nomor_wa: 089516692436
+      instagram:
+        nama: "@berkah.rayastore"
+        url: ""
+
+
 - wilayah: "Jawa Barat"
   data:
     - kota: "Agen Kabupaten Bandung"
@@ -1502,6 +1511,20 @@
       nomor_wa: 081317747043
       instagram:
         nama: "@toko.kiara"
+        url: ""
+
+    - kota: "Reseller Kota Bekasi"
+      nama: "Haswinda"
+      nomor_telepon: 081213621470
+      nomor_wa: 081213621470  
+      tokopedia:
+        nama: "@rumahbukukan"
+        url: ""
+      instagram:
+        nama: "@rumah.buku.kan"
+        url: ""
+      shopee:
+        nama: "@windaNst"
         url: ""
 
     - kota: "Agen Kabupaten Karawang"
