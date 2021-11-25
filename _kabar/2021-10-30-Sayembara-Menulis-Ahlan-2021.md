@@ -45,20 +45,12 @@ Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
 4. Tata bahasa disesuaikan untuk pembaca usia 9-15 tahun.
 5. Penilaian naskah mencakup kesesuaian tema, isi, teknik, dan gaya penulisan, serta penggunaan bahasa (harus memenuhi kesesuaian kaidah dan keterbacaan).
 6. Isi harus memiliki unsur edukasi dan nilai-nilai Islami. 
-7. Isi tidak mengandung isu suku, agama, ras, dan antargolongan (sara) yang negatif, tidak mengandung unsur pornografi, tidak bias gender, dan tidak berunsur kekerasan.
+7. Isi tidak mengandung isu suku, agama, ras, dan antargolongan (SARA) yang negatif, tidak mengandung unsur pornografi, tidak bias gender, dan tidak berunsur kekerasan.
 8. Setiap peserta hanya diperbolehkan mengirim satu naskah/karya.
 9. Naskah disertai berkas:
-<<<<<<< HEAD
-    
-    a. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: [https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
-    
-    b. Scan akte kelahiran
-
-=======
     1. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: <br />
     [Unduh Template Surat Pernyataan Keaslian](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
     2. Scan akte kelahiran
->>>>>>> 6db7fbd4179e57067f334f7005e88ea44013b37b
 10. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
 11. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
 12. Hasil penilaian dan penyeleksian tidak dapat diganggu gugat.
@@ -66,16 +58,8 @@ Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
 ## Ketentuan Khusus:
 
 1. Panjang naskah:
-<<<<<<< HEAD
-
-    a. Usia 9-11 tahun = 2-4 halaman A4
-
-    b. Usia 12-15 tahun = 3-5 halaman A4
-
-=======
     1. Usia 9-11 tahun = 2-4 halaman A4
     2. Usia 12-15 tahun = 3-5 halaman A4
->>>>>>> 6db7fbd4179e57067f334f7005e88ea44013b37b
 2. Jenis huruf Times New Roman dengan ukuran 12.
 3. Spasi 1,5.
 4. Margin kanan/kiri: 1,5cm/1 cm.
