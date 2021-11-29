@@ -51,7 +51,7 @@ Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
     1. Scan lembar pernyataan keaslian naskah yang telah ditandatangani peserta. Silakan download melalui tautan berikut: <br />
     [Unduh Template Surat Pernyataan Keaslian](https://ahlan.id/assets/docs/surat-pernyataan-keaslian-naskah-lomba.docx)
     2. Scan akte kelahiran
-10. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia mulai tanggal 1 s.d. 30 November 2021. 
+10. Peserta mengisi identitas, berkas-berkas, dan mengunggah hasil karya di link yang tersedia sampai dengan tanggal 31 Desember 2021 (diperpanjang). 
 11. Naskah yang dikirim sepenuhnya menjadi hak milik panitia (Penerbit Ahlan).
 12. Hasil penilaian dan penyeleksian tidak dapat diganggu gugat.
        
@@ -85,6 +85,8 @@ Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
 
 ## Timeline
 - Publikasi tanggal 1 November 2021.
-- Pendaftaran dan pengumpulan karya via web tanggal 1-30 November 2021.
-- Penilaian dimulai pada tanggal 1-30 Desember 2021.
-- Pengumuman pemenang akan disampaikan pada tanggal 1 Januari 2022.
+- Pendaftaran dan pengumpulan karya via web sampai dengan tanggal 31 Desember 2021.
+- Penilaian dimulai pada tanggal 1-31 Januari 2022.
+- Pengumuman pemenang akan disampaikan pada tanggal 1 Februari 2022.
+
+![/assets/images/kabar/perpanjangan-sayembara.jpeg]
