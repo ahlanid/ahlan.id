@@ -89,4 +89,4 @@ Bersiaplah menjadi generasi penulis cilik Penerbit Ahlan!
 - Penilaian dimulai pada tanggal 1-31 Januari 2022.
 - Pengumuman pemenang akan disampaikan pada tanggal 1 Februari 2022.
 
-![/assets/images/kabar/perpanjangan-sayembara.jpeg]
+![Perpanjangan Sayembara Menulis Ahlan 2021 menjadi 31 Desember 2021](/assets/images/kabar/perpanjangan-sayembara.jpeg "Perpanjangan Sayembara Menulis Ahlan 2021 menjadi 31 Desember 2021")
