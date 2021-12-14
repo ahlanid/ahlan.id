@@ -786,7 +786,10 @@
       nomor_telepon: 085647051122
       nomor_wa: 085647051122
       instagram:
-        nama: "@nurinayupi" 
+        nama: "@layyastore.id" 
+        url: ""
+      instagram:
+        nama: "@layyastore.id" 
         url: ""
 
     - kota: "Agen Kota Surakarta(Solo)"
@@ -1864,6 +1867,9 @@
         url: ""
       instagram:
         nama: "@Edukasi Anak Umm"
+        url: ""
+      shopee:
+        nama: "@a2dfamily"
         url: ""
 
     - kota: "Reseller Kota Kuningan"
