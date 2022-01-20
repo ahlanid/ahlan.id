@@ -1812,6 +1812,20 @@
       nomor_telepon: 081808054012
       nomor_wa: 081808054012
 
+    - kota: "Agen Kota Cimahi"
+      nama: "Ardi Astuti"
+      nomor_telepon: 08112010060
+      nomor_wa: 08112010060
+      facebook:
+        nama: "@Dias"
+        url: ""
+      instagram:
+        nama: "@credufun.id"
+        url: ""
+      shopee:
+        nama: "@sandir"
+        url: ""
+
     - kota: "Reseller Kota Cimahi"
       nama: "Melly"
       nomor_telepon: 085524707458
