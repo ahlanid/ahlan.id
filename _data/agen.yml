@@ -1439,6 +1439,20 @@
         nama: "@binafifstore"
         url: "https://www.instagram.com/binafifstore/"
 
+    - kota: "Agen Kota Bekasi"
+      nama: "Haswinda"
+      nomor_telepon: 081213621470
+      nomor_wa: 081213621470  
+      tokopedia:
+        nama: "@rumahbukukan"
+        url: ""
+      instagram:
+        nama: "@rumah.buku.kan"
+        url: ""
+      shopee:
+        nama: "@windaNst"
+        url: ""
+
     - kota: "Reseller Kota Bekasi"
       nama: "Fitry"
       nomor_telepon: 089693878561
@@ -1535,20 +1549,6 @@
       nomor_wa: 081317747043
       instagram:
         nama: "@toko.kiara"
-        url: ""
-
-    - kota: "Reseller Kota Bekasi"
-      nama: "Haswinda"
-      nomor_telepon: 081213621470
-      nomor_wa: 081213621470  
-      tokopedia:
-        nama: "@rumahbukukan"
-        url: ""
-      instagram:
-        nama: "@rumah.buku.kan"
-        url: ""
-      shopee:
-        nama: "@windaNst"
         url: ""
 
     - kota: "Reseller Kota Bekasi"
@@ -1939,6 +1939,17 @@
       nama: "Auladi Bookstore"
       nomor_telepon: 081559960757
       nomor_wa: 081559960757
+
+    - kota: "Agen Kabupaten Sidoarjo"
+      nama: "Puri Emilda"
+      nomor_telepon: 082229347557
+      nomor_wa: 082229347557
+      facebook:
+        nama: "@Emilda tilanta"
+        url: ""
+      instagram:
+        nama: "@Emilda tilanta"
+        url: ""
 
     - kota: "Reseller Kota Sidoarjo"
       nama: "Wahyu Indayani"
@@ -2667,6 +2678,14 @@
       instagram:
         nama: "@sobatsholeh_makassar" 
         url: "https://www.instagram.com/sobatsholeh_makassar/"
+
+    - kota: "Agen kota Makassar"
+      nama: "Ira Muslimah"
+      nomor_telepon: 082331851213
+      nomor_wa: 082331851213
+      facebook:
+        nama: "@Ira 'ummuAisyah' Muslimah" 
+        url: ""
 
     - kota: "Reseller kota Makassar"
       nama: "Aswaliaty"
