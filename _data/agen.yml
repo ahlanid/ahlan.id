@@ -2905,6 +2905,17 @@
         nama: "@aimanlibrary"
         url: "https://www.instagram.com/aimanlibrary/"
 
+    - kota: "Reseller kota Denpasar"
+      nama: "Jenivia Dwi R"
+      nomor_telepon: 082144684458
+      nomor_wa: 082144684458
+      instagram:
+        nama: "@toko.ibran"
+        url: ""
+      shopee:
+        nama: "@jenivia"
+        url: ""
+
 - wilayah: "Riau"
   data:
     - kota: "Agen Kota Pekanbaru"
