@@ -1715,20 +1715,6 @@
       nomor_wa: 087874143729
 
     - kota: "Agen Kota Bogor"
-      nama: "Monika Suharko"
-      nomor_telepon: 08112798965
-      nomor_wa: 08112798965
-      tokopedia:
-        nama: "@Radinka Crafts N Toys"
-        url: ""
-      instagram:
-        nama: "@radinkabooks"
-        url: ""
-      shopee:
-        nama: "@Radinka Crafts N Toys"
-        url: ""
-
-    - kota: "Agen Kota Bogor"
       nama: "Eny pujihastuti"
       nomor_telepon: 08129719707
       nomor_wa: 08129719707
@@ -1763,6 +1749,20 @@
       nomor_wa: 0897430160969
       instagram:
         nama: "@Madinah Collection"
+        url: ""
+
+ - kota: "Agen Kabupaten Bogor"
+      nama: "Monika Suharko"
+      nomor_telepon: 08112798965
+      nomor_wa: 08112798965
+      tokopedia:
+        nama: "@Radinka Crafts N Toys"
+        url: ""
+      instagram:
+        nama: "@radinkabooks"
+        url: ""
+      shopee:
+        nama: "@Radinka Crafts N Toys"
         url: ""
 
     - kota: "Reseller Kota Bogor"
