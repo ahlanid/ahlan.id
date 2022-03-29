@@ -641,6 +641,11 @@
         nama: "@hauramuslimah.id" 
         url: "https://www.instagram.com/hauramuslimah.id/"
 
+    - kota: "Reseller Tangerang Selatan"
+      nama: "Eva Masyita"
+      nomor_telepon: 081318751101
+      nomor_wa: 081318751101
+
 - wilayah: "Jawa Tengah"
   data:
     - kota: "Agen Kota Pekalongan"
@@ -1743,7 +1748,7 @@
       nomor_telepon: 081905108685
       nomor_wa: 081905108685
 
- - kota: "Agen Kabupaten Bogor"
+ - kota: "Agen kabupaten Bogor"
       nama: "Monika Suharko"
       nomor_telepon: 08112798965
       nomor_wa: 08112798965
@@ -2809,6 +2814,11 @@
         nama: "@anggialine"
         url: "https://shopee.co.id/anggialine?smtt=0.0.9/"
 
+    - kota: "Reseller Kota Medan"
+      nama: "Dewi Sri Wulan"
+      nomor_telepon: 081263999314
+      nomor_wa: 081263999314
+
 - wilayah: "Sumatera Selatan"
   data:
     - kota: "Agen Kota Lahat"
@@ -3007,8 +3017,8 @@
   data:
     - kota: "Reseller Kota Batam"
       nama: "Shafiyyah Heni Handayani"
-      nomor_telepon: 09153393460
-      nomor_wa: 09153393460
+      nomor_telepon: 089153393460
+      nomor_wa: 089153393460
       instagram:
         nama: "@shafiyyahenny"
         url: "https://www.instagram.com/shafiyyahenny/"
