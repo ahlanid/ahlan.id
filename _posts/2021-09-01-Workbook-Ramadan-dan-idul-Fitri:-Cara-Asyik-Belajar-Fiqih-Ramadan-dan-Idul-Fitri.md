@@ -1,74 +1,44 @@
 ---
-title: "Anak Islam Belajar Angka 123 (Boardbook), Ahlan"
-date: "2021-10-01 14:14:17 +0700"
+title: "Workbook Ramadan dan Idul Fitri"
+date: "2021-09-01 14:14:17 +0700"
 image: "/assets/images/produk/Cover-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan.jpg"
-author: ""
-halaman: "10"
-isbn: ""
+author: "Za Ummu Raihan"
+halaman: "33"
+isbn: "978-623-7447-31-3"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
-umur: "1-5 Tahun (Usia PAUD/TK)"
+umur: "5 Tahun Keatas"
 categories: 
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-1.png"
+    image: ""
   - title: "slide B"
-    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-2.png"
+    image: ""
   - title: "slide C"
-    image: "/assets/images/produk/Isi-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan-3.png"
+    image: ""
 ---
 
-Anak Islam Belajar Angka 123 (Boardbook)
+Apakah ayah dan bunda sudah menyusun rencana di bulan Ramadan nanti❓
+📌 Alhamdulillah, kini Ahlan akan membantu ayah dan bunda menyusun rencana yang berisi aktivitas-aktivitas bermanfaat untuk si buah hati.
+
+✅ Workbook Ramadan
+Berisi berbagai ilmu, fiqih, pernak-pernik Ramadan dan Idul Fitri yang tersaji dalam 30++ worksheet seru. Dilengkapi dengan kolom tantangan WWP (Work With Parent) yang akan memperkuat bonding orang tua, anak, dan anggota keluarga lainnya.
+ 
+✅ BONUS 3D Box Idul Fitri
+Yuk, buat sendiri hiasan unik bernuansa Idul Fitri dengan Template 3D box Idul Fitri AHLAN.
 
 
 
-Mengapa Harus Pilih Buku Ini⁉️
+🔥Spesifikasi Buku🔥
++Full Color
 
++Ukuran A4 (21 x 29,7 cm)
 
++HVS 100 gram
 
-✅ Membantu si kecil belajar mengenal angka 1-10 dan mengenal pengetahuan Islam
++Isi 33 halaman
 
++Softcover
 
-
-✅Dilengkapi dengan gambar yang menarik dan warna warni yang cerah sehingga anak lebih tertarik untuk memperhatikan, mengenal, dan mempelajarinya.
-
-
-
-✅ Buku ini didesain menggunakan Boardbook serta ujung buku yang tumpul (rounded) sehingga penggunaanya jauh lebih aman dan tidak mudah rusak bila digunakan oleh balita.
-
-
-
-✅ Berukuran lumayan besar yaitu 20 x 23 cm (portrait)
-
-
-
-✅ Sudah dimuroja'ah oleh Ustadz Nasir Umar bin 'Amr, Lc
-
-
-
-==========================
-
-
-
-🎁 Dilengkapi Sticker Pendukung 
-
-
-
-💥Spesifikasi Buku💥 
-
-Ukuran. : 20 x 23 cm (Portrait)
-
-Cover     : Boardbook
-
-Bahan    : Ivory 350 gram + Laminasi Gloss
-
-Isi.          : 10 Halaman
-
-
-
-💥Spesifikasi Stiker💥 
-
-Bahan.   : Stiker Kromo (4/0)
-
-Ukuran. : 20 x 22,5 cm
+💞 Lengkap yaaa, maasyaallah. Tunggu apa lagi? Segera pesan Fun Ramadhan Pack AHLAN dan jadikan sabahat ananda mewujudkan Ramadan yang berkualitas dan menyenangkan. 😍😍

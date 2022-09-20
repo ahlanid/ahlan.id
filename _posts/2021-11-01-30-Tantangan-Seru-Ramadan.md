@@ -1,82 +1,44 @@
 ---
-title: "Paket Talqin Akhlak Anak (Softcover)"
-date: "2021-01-01 14:14:17 +0700"
+title: "30 Tantangan Seru Ramadan"
+date: "2021-11-01 14:14:17 +0700"
 image: "/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpg"
-author: "Abunnada"
-halaman: "24 halaman/buku"
-isbn: ""
+author: "Za Ummu Raihan"
+halaman: "33 halaman"
+isbn: "978-623-7447-33-7"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
-umur: "1 Tahun Keatas"
+umur: "5 Tahun Keatas"
 categories: 
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)1.png"
+    image: ""
   - title: "slide B"
-    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)2.png"
+    image: ""
   - title: "slide C"
-    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)3.png"
-  - title: "slide D"
-    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)4.png"
-  - title: "slide E"
-    image: "/assets/images/produk/Isi-Paket-Talqin-Akhlak-Anak-(Softcover)5.png"
+    image: ""
 ---
 
-PAKET TALQIN AKHLAK ANAK SOFTCOVER
+Apakah ayah dan bunda sudah menyusun rencana di bulan Ramadan nanti❓
+📌 Alhamdulillah, kini Ahlan akan membantu ayah dan bunda menyusun rencana yang berisi aktivitas-aktivitas bermanfaat untuk si buah hati.
+
+✅ Buku Aktivitas “30 Tantangan Seru Ramadan”
+Buku ini mengakomodir karakter anak usia dini yang aktif, selalu ingin tahu hal baru, senang berinteraksi, dan ceria. Terdapat 30 tantangan anti mati gaya yang akan membuat ananda semakin bersemangat menjalani hari-hari puasa mereka. Aktivitas unik, mendidik, dan asyik yang ada di sini antara lain: life skill, Game Islami, science kids, game murajaah asik, craft, dan permainan tradisional.
+Daaann ... 
+✅ BONUS 3D Box Idul Fitri
+Yuk, buat sendiri hiasan unik bernuansa Idul Fitri dengan Template 3D box Idul Fitri AHLAN.
 
 
+Spesifikasi Buku:
 
-🔥 1 Paket terdiri dari judul 🔥
++Full Color
 
-💠 Ayah Tercinta 
++Ukuran A4 (21 x 29,7 cm)
 
-💠 Bunda Tercinta 
++HVS 100 gram
 
-💠 Kakak Tercinta 
++Isi 30 - 33 halaman
 
-💠 Adik Tercinta 
++Softcover
 
-💠 Guruku Tersayang 
-
-
-
-🎁 Free 1 Kaos Anak Eksklusif 👕
-
-
-
-Hadir lebih lengkap dan lebih ekonomis‼️
-
-
-
-Kenapa ananda tercinta harus punya buku ini?
-
-
-
-Paket Talqin Akhlak Anak ditulis dengan harapan dapat menjadi inspirasi pelajaran akhlak untuk anak. Sesuai judul serialnya, buku sederhana ini disusun dengan maksud sebagai media mentalqin anak sejak dini untuk menumbuhkan rasa patuh kepada orangtua, menyayangi kakak dan adiknya, serta menghormati guru mereka.
-
-
-
-💐 Buku ini hanya sebagai stimulus saja. Ayah dan Bunda yang membacakan pada anak dapat mengembangkannya. Misal, dengan menyisipkan harapan pada anak disertai ungkapan rasa bangga ketika anak melakukan sikap-sikap positif semisal yang dicontohkan dalam buku tersebut. bacakan buku ini kepada anak dengan sepenuh hati. Usahakan membaca dengan gembira. 
-
-
-
-💐 Ayah Bunda boleh merasa lega jika anak kemudian minta dibacakan lagi, lagi, dan lagi. Itu artinya, dia menikmati. Capek? Tentu. Tapi, ini menjadi kesempatan bagi kita untuk berulang kali mentalqin atau menuntun jiwa anak kepada praktik-praktik akhlak terpuji, sekaligus untuk mengakrabkan anak pada budaya membaca. Semoga buku dapat menjadi sahabat putra-putri kita. 
-
-
-
-🤗🤗🤗🤗
-
-
-
-📚 Spesifikasi 
-
-- Sampul    : Softcover
-
-- Bahan isi : Art Papper 120 gr
-
-- Ukuran    : 17 x 17 cm
-
-- Isi            : 24 Halaman
-
-- Usia.       : 1+
+💞 Lengkap yaaa, maasyaallah. Tunggu apa lagi? Segera pesan Fun Ramadhan Pack AHLAN dan jadikan sabahat ananda mewujudkan Ramadan yang berkualitas dan menyenangkan. 😍😍
