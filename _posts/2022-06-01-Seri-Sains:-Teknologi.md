@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Teknologi"
 date: "2022-06-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-teknologi.jpg"
 author: "Amfici Eka Fitry, B.Eng."
 halaman: "44"
 isbn: "978-623-7447-45-0"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Teknologi-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Teknologi-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Teknologi-3.png"
 ---
 
 🛸 Teknologi merupakan hasil penerapan ilmu pengetahuan yang dikuasai manusia dalam memecahkan permasalahan yang dihadapinya. Manusia menggunakan teknologi sebagai sarana membuat hidup lebih mudah. Kemajuan teknologi didapat karena manusia memiliki kemampuan untuk mempelajari hal-hal baru dalam hidupnya. Manusia memanfaatkan teknologi di berbagai bidang kehidupan.

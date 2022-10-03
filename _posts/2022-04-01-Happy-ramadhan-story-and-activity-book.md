@@ -1,7 +1,7 @@
 ---
 title: "Happy Ramadhan Story and Activity Book"
 date: "2022-04-01 14:14:17 +0700"
-image: "/assets/images/produk/cover-30-tantangan.jpg"
+image: "/assets/images/produk/cover-Happy-ramadhan-story-and-activity-book.jpg"
 author: "Sekarsari Pratiti"
 halaman: "48"
 isbn: "978-623-7447-51-1"
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: "/assets/images/produk/isi-30-tantangan-1.png"
+    image: "/assets/images/produk/isi-Happy-ramadhan-story-and-activity-book-1.png"
   - title: "slide B"
-    image: "/assets/images/produk/isi-30-tantangan-1.png"
+    image: "/assets/images/produk/isi-Happy-ramadhan-story-and-activity-book-2.png"
   - title: "slide C"
-    image: "/assets/images/produk/isi-30-tantangan-1.png"
+    image: "/assets/images/produk/isi-Happy-ramadhan-story-and-activity-book-3.png"
 ---
 
 Happy Ramadhan Story And Activity Book 

@@ -1,7 +1,7 @@
 ---
 title: "Cari dan Temukan: Keliling Dunia "
 date: "2021-12-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpg"
+image: "/assets/images/produk/cover-keliling dunia.jpg"
 author: "Angga Priatna"
 halaman: "12 halaman"
 isbn: "978-623-7447-39-9"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-keliling-dunia-1.jpg"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-keliling-dunia-2.jpg"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-keliling-dunia-3.jpg"
 
 ---
 

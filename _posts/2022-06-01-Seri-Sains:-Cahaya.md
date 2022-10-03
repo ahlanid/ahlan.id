@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Cahaya"
 date: "2022-06-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-cahaya.jpg"
 author: "Dewi Arum Rarasati, S.T."
 halaman: "40"
 isbn: "978-623-7447-43-6"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-cahaya-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-cahaya-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-cahaya-3.png"
 ---
 
 ✨ Sampai hari ini, cahaya masih menjadi salah satu misteri terbesar di alam semesta. Kecepatannya yang luar biasa mampu mengarungi jarak yang jauh dalam sekejap mata. Energi berbentuk cahaya dihasilkan oleh berbagai benda. Dengan memahami sifat-sifat cahaya, banyak fenomena alam yang dapat kita pahami. Kunang-kunang bercahaya di malam hari. Matahari memancarkan radiasi. Pensil yang terendam air tampak patah akibat cahaya yang terdeviasi. Spektrum warna dapat diurai terbagi-bagi.

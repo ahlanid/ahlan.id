@@ -1,7 +1,7 @@
 ---
 title: "Wonderfull Idul Adha Pack-Ya Allah, Aku Ingin Berkurban"
 date: "2021-11-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpg"
+image: "/assets/images/produk/cover-Ya-Allah,-aku-ingin-berkurban.jpg"
 author: "Za Ummu Raihan"
 halaman: "32 halaman"
 isbn: "978-623-7447-36-8"
@@ -12,9 +12,9 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Ya-Allah,-aku-ingin-berkurban-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Ya-Allah,-aku-ingin-berkurban-2.png"
   - title: "slide C"
     image: ""
 ---

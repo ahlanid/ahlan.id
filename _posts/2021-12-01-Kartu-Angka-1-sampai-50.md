@@ -1,7 +1,7 @@
 ---
 title: "Kartu Angka 1-50"
 date: "2021-12-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpg"
+image: "/assets/images/produk/cover-Kartu-angka-1---50.jpg"
 author: "Ary Susanti"
 halaman: "100 halaman"
 isbn: "978-623-7447-40-5"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-kartu-angka-1---50-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-kartu-angka-1---50-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-kartu-angka-1---50-3.png"
 
 ---
 

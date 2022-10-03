@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Siklus Air"
 date: "2021-12-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-siklus-air.jpg"
 author: "Putri Setiani, S.T., MES., Ph.D."
 halaman: "36"
 isbn: "978-623-7447-41-2"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-siklus-air-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-siklus-air-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-siklus-air-3.png"
 ---
 
 💦 Air adalah salah satu zat paling penting bagi kehidupan manusia. Manusia memerlukan air untuk minum, mandi, memasak, dan berbagi keperluan lainnya. Keberadaan air dibumi membuat planet ini memiliki lingkungan yang mendukung bagi kehidupan. Tubuh manusia pun terdiri dari air. Karenanya, penting sekali bagi manusia untuk memahami sifat-sifat air.

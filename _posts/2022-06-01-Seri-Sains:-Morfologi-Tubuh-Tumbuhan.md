@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Morfologi Tubuh Tumbuhan"
 date: "2022-06-15 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-Morfologi-tubuh-tumbuhan.jpg"
 author: "Nindy Seftyani, S.Si."
 halaman: "40"
 isbn: "978-623-7447-44-3"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Morfologi-Tubuh-Tumbuhan-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Morfologi-Tubuh-Tumbuhan-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Morfologi-Tubuh-Tumbuhan-3.png"
 ---
 
 🌱 Tumbuhan memegang peranan penting dalam kehidupan di planet bumi. Banyak keistimewaan tumbuhan, di antaranya adalah menghasilkan oksigen yang dibutuhkan setiap makhluk hidup, menghasilkan makanan sehingga menjadi sumber makanan bagi makhluk lain, dan menyerap gas karbon dioksida yang berbahaya bagi makhluk hidup. 

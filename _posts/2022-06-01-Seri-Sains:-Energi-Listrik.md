@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Energi Listrik"
 date: "2022-06-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-energi-listrik.jpg"
 author: "Dr.Eng. Rudi Agus Setiawan B.Eng., M.Eng."
 halaman: "44"
 isbn: "978-623-7447-48-1"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Energi-listrik-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Energi-listrik-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Energi-listrik-3.png"
 ---
 
 💥 Pernahkah ketika kamu sedang asyik membaca tiba-tiba mati lampu?

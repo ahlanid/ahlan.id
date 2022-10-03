@@ -1,7 +1,7 @@
 ---
 title: "Ramadanku-Ku Seru Setiap Hari!"
 date: "2021-09-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan.jpg"
+image: "/assets/images/produk/cover-Jurnal-harian.jpg"
 author: "Za Ummu Raihan"
 halaman: "30"
 isbn: "978-623-7447-32-0"
@@ -12,9 +12,9 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-jurnal-harian-2.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-jurnal-harian-2.png"
   - title: "slide C"
     image: ""
 ---

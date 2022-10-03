@@ -1,7 +1,7 @@
 ---
 title: "30 Tantangan Seru Ramadan"
 date: "2021-11-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Paket-Talqin-Akhlak-Anak-(Softcover).jpg"
+image: "/assets/images/produk/cover-30-tantangan.jpg"
 author: "Za Ummu Raihan"
 halaman: "33 halaman"
 isbn: "978-623-7447-33-7"
@@ -12,9 +12,9 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-30-tantangan-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-30-tantangan-3.png"
   - title: "slide C"
     image: ""
 ---

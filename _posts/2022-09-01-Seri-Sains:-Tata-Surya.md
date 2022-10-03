@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Tata Surya"
 date: "2022-09-15 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-tata-surya.jpg"
 author: "Dr. Lucky Puspitarini, S.Si., M.Sc."
 halaman: "44"
 isbn: "978-623-7447-47-4"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-tata-surya-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-tata-surya-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-tata-surya-3.png"
 ---
 
 🌤️ (Tata Surya) Pernahkah kamu mengamati langit? Benda apa saja yang dapat kamu lihat di langit? Ketika keluar rumah pada siang hari yang cerah, kita akan melihat terang dan merasakan panas dari sebuah benda di langit. Tahukah kamu, benda apakah itu?

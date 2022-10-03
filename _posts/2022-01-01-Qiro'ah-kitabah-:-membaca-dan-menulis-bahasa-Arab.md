@@ -1,7 +1,7 @@
 ---
 title: "Qiro'ah Kitabah (Baca Tulis Anak Muslim: Pertanyaan Tauhid)"
 date: "2022-01-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-QIRO'AH-KITABAH.jpg"
 author: "Ustadz Johan Saputra Halim"
 halaman: "42"
 isbn: "978-623-7447-46-7"
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-QIRO'AH-KITABAH-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-QIRO'AH-KITABAH-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-QIRO'AH-KITABAH-3.png"
 ---
 
 QIRO'AH KITABAH

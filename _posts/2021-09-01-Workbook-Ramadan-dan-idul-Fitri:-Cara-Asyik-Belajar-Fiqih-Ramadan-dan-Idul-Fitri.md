@@ -1,7 +1,7 @@
 ---
 title: "Workbook Ramadan dan Idul Fitri"
 date: "2021-09-01 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Anak-Islam-Belajar-Angka-123-(Boardbook)-Ahlan.jpg"
+image: "/assets/images/produk/cover-Workbook-Ramadan-dan-idul-fitri.jpg"
 author: "Za Ummu Raihan"
 halaman: "33"
 isbn: "978-623-7447-31-3"
@@ -12,9 +12,9 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-workbook-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-workbook-1.png"
   - title: "slide C"
     image: ""
 ---

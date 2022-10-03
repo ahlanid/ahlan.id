@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Campuran dan Larutan"
 date: "2021-12-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-Campuran-dan-Larutan.jpg"
 author: "Khomaini Hasan, S.Si., Ph.D."
 halaman: "36"
 isbn: "978-623-7447-35-1"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Campuran-dan-larutan-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Campuran-dan-larutan-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Campuran-dan-larutan-3.png"
 ---
 
 🌍 Dunia penuh dengan misteri. Manusia belum sepenuhnya memahami bagaimana alam semesta bekerja. Seluruh perjuangan manusia untuk mengenal alam terangkum dalam sains. Mempelajari sains akan membuka wawasan kita.

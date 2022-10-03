@@ -1,7 +1,7 @@
 ---
 title: "Tulis Hapus Huruf Hijaiyah"
 date: "2022-01-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-Tulis---hapus-huruf-hijaiyah.jpg"
 author: "Beta Uliansyah"
 halaman: "32"
 isbn: "978-623-7447-42-9"
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-TULIS-HAPUS-HURUF-HIJAIYAH-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-TULIS-HAPUS-HURUF-HIJAIYAH-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-TULIS-HAPUS-HURUF-HIJAIYAH-3.png"
 ---
 “Sebaik-baik kamu adalah orang yang mempelajari Al-Qur ‘an dan mengajarkannya.” (HR. Al-Bukhari)
 

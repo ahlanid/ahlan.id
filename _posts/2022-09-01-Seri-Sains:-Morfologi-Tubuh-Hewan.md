@@ -1,7 +1,7 @@
 ---
 title: "Seri Sains: Morfologi Tubuh Hewan"
 date: "2022-09-01 14:14:17 +0700"
-image: "/assets/images/produk/Kisah-Nabi-Danial.jpg"
+image: "/assets/images/produk/cover-Morfologi-tubuh-hewan.jpg"
 author: "drh. Astri Rizkia Silvani"
 halaman: "44"
 isbn: "978-623-7447-50-4"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Morfologi-tubuh-hewan-1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Morfologi-tubuh-hewan-2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Morfologi-tubuh-hewan-3.png"
 ---
 
 🦋 (Morfologi Tubuh Hewan) Hewan atau binatang termasuk makhluk hidup ciptaan Allah yang secara ilmiah diklasifikasikan ke dalam Dunia Hewan (Kingdom Animalia). Hewan juga beraktivitas, membutuhkan makan dan minum, serta berkembang biak. Hewan tidak memiliki akal, tetapi memiliki insting. Dalam istilah lain, hewan dikenal juga sebagai fauna, satwa, dan margasatwa. Yuk, pelajari lebih dalam tentang klasifikasi hewan!
