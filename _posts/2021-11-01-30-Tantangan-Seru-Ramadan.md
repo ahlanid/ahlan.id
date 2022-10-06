@@ -1,6 +1,6 @@
 ---
 title: "30 Tantangan Seru Ramadan"
-date: "2021-11-01 14:14:17 +0700"
+date: "2021-09-01 14:14:17 +0700"
 image: "/assets/images/produk/cover-30-tantangan.jpg"
 author: "Za Ummu Raihan"
 halaman: "33 halaman"
