@@ -1,7 +1,7 @@
 ---
 title: "Mondokin Anak? Siapa Takut!"
 date: "2022-10-18 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Handbook-Pubertas-Muslim-Gentleman-Tuh-Kaya-Gini!-+-Bonus-Buku-Baligh-di-Pesantren.jpg"
+image: "/assets/images/produk/cover-Mondokin-anak-siapa-takut.jpegg"
 author: "Muhammad Arifin Siregar, Lc. S.Kom. dan Za Ummu Raihan"
 halaman: "32"
 isbn: "Menunggu ISBN"
