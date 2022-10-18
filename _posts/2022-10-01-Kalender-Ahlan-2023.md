@@ -1,6 +1,6 @@
 ---
 title: "Kalender Ahlan 2023"
-date: "2021-10-15 14:14:17 +0700"
+date: "2022-10-15 14:14:17 +0700"
 image: "/assets/images/produk/cover-kalender.jpg"
 author: "Penerbit Ahlan"
 halaman: "36 dengan cover depan dan cover belakang"
