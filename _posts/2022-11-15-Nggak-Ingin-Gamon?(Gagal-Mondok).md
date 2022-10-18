@@ -1,5 +1,5 @@
 ---
-title: "Nggak Inggin Gamon? (Gagal Mondok)"
+title: "Nggak Inggin Gamon?"
 date: "2022-11-15 14:14:17 +0700"
 image: "/assets/images/produk/Cover-Handbook-Pubertas-Muslim-Gentleman-Tuh-Kaya-Gini!-+-Bonus-Buku-Baligh-di-Pesantren.jpg"
 author: "Abbas, Yasmin, Abdurrahman Waridi Sarpadi, dan Za Ummu Raihan"
