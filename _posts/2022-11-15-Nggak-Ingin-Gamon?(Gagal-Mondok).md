@@ -1,5 +1,5 @@
 ---
-title: "Nggak Inggin Gamon? (Gagal Mondok)"
+title: "Nggak Inggin Gamon? (Gagal Mondok)-(Coming soon)"
 date: "2022-10-18 14:14:17 +0700"
 image: "/assets/images/produk/cover-gamon.jpeg"
 author: "Abbas, Yasmin, Abdurrahman Waridi Sarpadi, dan Za Ummu Raihan"

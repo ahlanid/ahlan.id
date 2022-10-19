@@ -1,5 +1,5 @@
 ---
-title: "Mondokin Anak? Siapa Takut!"
+title: "Mondokin Anak? Siapa Takut!(Coming soon)"
 date: "2022-10-17 14:14:17 +0700"
 image: "/assets/images/produk/cover-Mondokin-anak-siapa-takut.jpeg"
 author: "Muhammad Arifin Siregar, Lc. S.Kom. dan Za Ummu Raihan"
