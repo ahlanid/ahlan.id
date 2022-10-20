@@ -1,27 +1,27 @@
 headers:
-  - image: /assets/images/sliders/minal-alif.png
-    alt: "Minal Alif Ilal Ya: Ahlak Mulia"
+  - image: /assets/images/sliders/slider-kalender-2023.png
+    alt: "Kalender Ahlan 2023: Setahun Bersama Nabi Muhammad shallallahu alayhi wa sallam"
 
+  - image: /assets/images/sliders/slider-Nabi%20Danial.png
+    alt: "Kisah Nabi Danial alaihis salaam"
+    
   - image: /assets/images/sliders/minal-alif-2.png
     alt: "Minal Alif Ilal Ya: Ahlak Mulia"
     
-  - image: /assets/images/sliders/minal-alif-3.png
-    alt: "Minal Alif Ilal Ya: Ahlak Mulia"
-    
-  - image: /assets/images/sliders/Optimized-minal-alif.png
-    alt: "Minal Alif Ilal Ya: Ahlak Mulia"    
+#  - image: /assets/images/sliders/Optimized-minal-alif.png
+#    alt: "Minal Alif Ilal Ya: Ahlak Mulia"    
 
 coming_soon:
-  - image: /assets/images/space-rocket-1.png
-    title: Sayembara Menulis Ahlan 2021
-    url: "/kabar/Sayembara-Menulis-Ahlan-2021"
+  - image: /assets/images/comingsoon/coming%20soon-kalender.jpg
+    title: Kalender Ahlan 2023: Setahun Bersama Nabi Muhammad shallallahu alayhi wa sallam
+    url: "/katalog/agama/Kalender-Ahlan-2023"
 
-  - image: /assets/images/hero-2.png
-    title: Serial Emosi
-    url: "#"
+  - image: /assets/images/comingsoon/comingsoon-nabi%20danial.jpg
+    title: Kisah Nabi Danial alaihissalam
+    url: "/katalog/agama/Kisah-Nabi-Danial"
 
 recomendation:
   title:
-    - "Bintang - Bintang Yang Terang"
-    - "Amar Ma’ruh Nahi Munkar"
-    - "10 Kisah Hidayah Shahabiyah"
+    - "Qiro'ah Kitabah (Baca Tulis Anak Muslim: Pertanyaan Tauhid)"
+    - "Seri Sains: Tata Surya"
+    - "Seri Sains: Morfologi Tubuh Hewan"
