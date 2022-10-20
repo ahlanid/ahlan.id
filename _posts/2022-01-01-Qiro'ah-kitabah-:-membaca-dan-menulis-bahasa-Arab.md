@@ -2,7 +2,7 @@
 title: "Qiro'ah Kitabah (Baca Tulis Anak Muslim: Pertanyaan Tauhid)"
 date: "2022-01-01 14:14:17 +0700"
 image: "/assets/images/produk/cover-QIRO'AH-KITABAH.jpg"
-author: "Ustadz Johan Saputra Halim"
+author: "Ustadz Abu Kunaiza Rizki Gumelar"
 halaman: "42"
 isbn: "978-623-7447-46-7"
 bahasa: "Indonesia"
