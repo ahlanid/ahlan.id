@@ -35,6 +35,6 @@ Latar belakang para penulis yang berkecimpung  secara langsung di dunia pesantre
 
 ▪️Faceless
 
-▪️Ukuran 17,5 x 24,7 cm
+▪️Ukuran 15 x 23 cm
 
 ▪️Isi 116 halaman

@@ -33,6 +33,6 @@ Selain isi buku yang menarik, juga terdapat tantangan bertualang yang seru dan m
 
 ▪️Faceless
 
-▪️Ukuran 17,5 x 24,7 cm
+▪️Ukuran 20 x 25 cm
 
 ▪️Isi 68 halaman
