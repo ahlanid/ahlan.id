@@ -1,6 +1,6 @@
     ---
 title: "Seri Sains: Fotosintesis pada Tumbuhan (Coming Soon)"
-date: "2022-10-17 14:14:17 +0700"
+date: "2022-10-17 20:14:17 +0700"
 image: "/assets/images/produk/Cover-Fotosintesis-pada-Tumbuhan.jpeg"
 author: "Nindy Seftyani S.Si."
 halaman: "36"
