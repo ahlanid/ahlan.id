@@ -1,7 +1,7 @@
-    ---
+---
 title: "Seri Sains: Gaya, Gerak, dan Energi (Coming Soon)"
 date: "2022-10-17 14:14:17 +0700"
-image: "/assets/images/produk/Cover-Gaya-Gerak-Energi.jpeg"
+image: "/assets/images/produk/Cover-Gaya-Gerak-Energi.jpg"
 author: "Putri Setiani, S.T., MES., Ph.D."
 halaman: "36"
 isbn: "Menunggu ISBN"
