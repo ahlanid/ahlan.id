@@ -1868,6 +1868,20 @@
         nama: "@alfahad_store"
         url: "shopee.co.id/alfahad_store"
 
+    - kota: "Reseller kota Bogor"
+      nama: "Fadilah"
+      nomor_telepon: 083872551994
+      nomor_wa: 083872551994
+      tokopedia:
+        nama: "@Surfad Store"
+        url: ""
+      instagram:
+        nama: "@surfad.store"
+        url: ""
+      shopee:
+        nama: "@Surfad Store"
+        url: ""
+
     - kota: "Agen Kota Bekasi (Cikarang)"
       nama: "Roza/Titin"
       nomor_telepon: 081299347845/0818684030
