@@ -1,7 +1,7 @@
 ---
 title: "Melawan Cemas dengan Berkarya"
 date: "2022-10-18 14:14:17 +0700"
-image: "assets/images/produk/cover-melawan-cemas-dengan-berkarya.jpg"
+image: "/assets/images/produk/cover-melawan-cemas-dengan-berkarya.jpg"
 author: "Alya Syifa Alifah, Aisyah Fatin Nayyara, Azizi Bioethic Humaniora, Fazlie Aslan, Haila Sabrina, Hanun Dzatirrajwa, Nailah Zahidah Hafidz, Ni Putu Sekar Azuma L. S. M. Z., Safinaz Fauziyya"
 halaman: "104"
 isbn: "Menunggu ISBN"

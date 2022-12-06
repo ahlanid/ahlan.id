@@ -1,7 +1,7 @@
 ---
 title: "Hariku Indah Bersama Al Qur'an'"
 date: "2022-10-18 14:14:17 +0700"
-image: "assets/images/produk/cover-Hariku-indah-bersama-Al-Quran.jpg"
+image: "/assets/images/produk/cover-Hariku-indah-bersama-Al-Quran.jpg"
 author: "Fathimah Khansa Putri, Hana Syakirah, Ranaa Mulia A., Reza Muhammad, Qaireen Ghaisani D.W., Keisha Aqila Z.H., Archie J.N., Fatya Bakhitah S., Salsabila Nadhifa, Afiya Syamila H."
 halaman: "104"
 isbn: "Menunggu ISBN"
