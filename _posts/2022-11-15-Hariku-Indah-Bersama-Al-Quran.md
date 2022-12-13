@@ -4,7 +4,7 @@ date: "2022-10-18 14:14:17 +0700"
 image: "/assets/images/produk/cover-Hariku-indah-bersama-Al-Quran.jpg"
 author: "Fathimah Khansa Putri, Hana Syakirah, Ranaa Mulia A., Reza Muhammad, Qaireen Ghaisani D.W., Keisha Aqila Z.H., Archie J.N., Fatya Bakhitah S., Salsabila Nadhifa, Afiya Syamila H."
 halaman: "104"
-isbn: "Menunggu ISBN"
+isbn: "Masih dalam proses"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
 umur: "Usia Remaja"
@@ -19,15 +19,15 @@ sliders:
     image: ""
 ---
 
-hadirnya buku ini di tengah kaum muslimin, khususnya para generasi muda dapat memberi sedikit sumbang sih pencerahan dalam mengenal dunia pesantren lebih dekat serta dapat menjadi tabungan pahala jariyah bagi para penulis dan seluruh pihak yang terlibat dalam penyusunan buku ini.
+Kedekatan kita dengan Al-Qur’an menunjukkan kadar kecintaan kita kepada firman Allah subhaanahu wata'alaa. 
+Kecintaan ini dapat ditanamkan sejak kecil. Buku ini merangkum kisah-kisah anak-anak muslim dalam interaksinya dengan Al-Qur’an. 
+Para penulis berbagi pengalamannya dalam berbagai bentuk, baik itu suka-duka ketika menghafal Al-Qur’an dan mengamalkan isinya, maupun menceritakan dampaknya dalam kehidupan kita.
 
-Buku ini cocok dijadikan bacaan wajib bagi semua orang yang ingin mondok, sedang mondok, atau bagi siapa saja yang tertarik mengenal dunia pesantren dan santri lebih dekat. Buku ini mengulas berbagai tips-tips penting seputar dunia pesantren secara lengkap namun tetap ringan dan lugas. 
-
-Latar belakang para penulis yang berkecimpung  secara langsung di dunia pesantren baik sebagai santri, pengajar, maupun praktisi membuat setiap tips yang disajikan dalam buku ini lebih mengena dan sangat besar manfaatnya sebagai bekal mondok.
+Dengan buku ini, kita akan dapat menanamkan nilai-nilai Al Qur'an kepada anak-anak kita melalui kumpulan kisah anak-anak dengan pengalamannya bersama Al Qur'an.
 
 
 
-🔥Spesifikasi Bonus:🔥
+🔥Spesifikasi Buku:🔥
 
 ▪️Softcover
 

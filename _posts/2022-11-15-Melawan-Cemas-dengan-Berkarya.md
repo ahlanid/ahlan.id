@@ -4,7 +4,7 @@ date: "2022-10-18 14:14:17 +0700"
 image: "/assets/images/produk/cover-melawan-cemas-dengan-berkarya.jpg"
 author: "Alya Syifa Alifah, Aisyah Fatin Nayyara, Azizi Bioethic Humaniora, Fazlie Aslan, Haila Sabrina, Hanun Dzatirrajwa, Nailah Zahidah Hafidz, Ni Putu Sekar Azuma L. S. M. Z., Safinaz Fauziyya"
 halaman: "104"
-isbn: "Menunggu ISBN"
+isbn: "Masih dalam proses"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
 umur: "Usia Remaja"
@@ -19,15 +19,16 @@ sliders:
     image: ""
 ---
 
-Buku ini cocok dijadikan bacaan wajib bagi semua orang yang ingin mondok, sedang mondok, atau bagi siapa saja yang tertarik mengenal dunia pesantren dan santri lebih dekat. Buku ini mengulas berbagai tips-tips penting seputar dunia pesantren secara lengkap namun tetap ringan dan lugas. 
+Pandemi menyimpan sejuta cerita. Terkadang menjadi anugrah karena disetiap harinya banyak berkah, namun tak jarang ada kendala yang membuat berbagai macam aktivitas menjadi tertunda. 
+Pandemi bukan untuk dicaci,
+musibah bukan berarti kehilangan arah,
+keterbatasan bukan menjadi alasan,
+Buku ini mengajarkan kita untuk tetap optimis dan berkarya walapun ditengah wabah yang menerpa. Melalui buku ini, kita akan dapat menumbuhkan nilai-nilai positif kepada anak-anak kita melalui kumpulan kisah anak-anak dengan perjuangannya kala mengarungi warna-warni pandemi covid-19. 
 
-Latar belakang para penulis yang berkecimpung  secara langsung di dunia pesantren baik sebagai santri, pengajar, maupun praktisi membuat setiap tips yang disajikan dalam buku ini lebih mengena dan sangat besar manfaatnya sebagai bekal mondok.
-
-Tiada gading yang tak retak. Tiada karya tanpa cela. Tentunya masih banyak kekurangan dalam penulisan buku ini, itu semata dari kurangnya ilmu dan kelemahan kami para penulis. Semoga Allah melimpahkan ilmu yang bermanfaat bagi kita semua. Aamiin
 
 
 
-🔥Spesifikasi Bonus:🔥
+🔥Spesifikasi Buku:🔥
 
 ▪️Softcover
 
