@@ -1,10 +1,10 @@
 ---
-title: "Seri Sains: Fotosintesis pada Tumbuhan (Coming Soon)"
+title: "Seri Sains: Fotosintesis pada Tumbuhan"
 date: "2022-10-17 20:14:17 +0700"
 image: "/assets/images/produk/Cover-Fotosintesis-pada-Tumbuhan.jpeg"
 author: "Nindy Seftyani S.Si."
 halaman: "36"
-isbn: "Menunggu ISBN"
+isbn: "978-623-7447-58-0"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
 umur: "Kelas 4, 5, 6 SD"
@@ -12,11 +12,11 @@ categories:
   - "Pendidikan"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Fotosintesis1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Fotosintesis2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Fotosintesis3.png"
 ---
 
 Begitu istimewanya Allah menciptakan makhluk hidup di bumi. Kita mungkin saja sering kali tidak menyadari keistimewaan makhluk yang Allah ciptakan. Betapa banyaknya

@@ -1,10 +1,10 @@
 ---
-title: "Nggak Inggin Gamon? (Gagal Mondok)-(Coming soon)"
+title: "Nggak Inggin Gamon? (Gagal Mondok)"
 date: "2022-10-18 14:14:17 +0700"
 image: "/assets/images/produk/cover-gamon.jpeg"
-author: "Abbas, Yasmin, Abdurrahman Waridi Sarpadi, dan Za Ummu Raihan"
+author: "Abbas, Yasmin, Abdurrahman Waridi Sarpad, dan Za Ummu Raihan"
 halaman: "116"
-isbn: "Menunggu ISBN"
+isbn: "978-623-7447-56-6"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
 umur: "Usia Remaja"
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-Gamon1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-Gamon2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-Gamon3.png"
 ---
 
 hadirnya buku ini di tengah kaum muslimin, khususnya para generasi muda dapat memberi sedikit sumbang sih pencerahan dalam mengenal dunia pesantren lebih dekat serta dapat menjadi tabungan pahala jariyah bagi para penulis dan seluruh pihak yang terlibat dalam penyusunan buku ini.

@@ -1,10 +1,10 @@
 ---
-title: "Mondokin Anak? Siapa Takut!(Coming soon)"
+title: "Mondokin Anak? Siapa Takut!"
 date: "2022-10-19 08:08:17 +0700"
 image: "/assets/images/produk/cover-Mondokin-anak-siapa-takut.jpeg"
 author: "Muhammad Arifin Siregar, Lc. S.Kom. dan Za Ummu Raihan"
 halaman: "32"
-isbn: "Menunggu ISBN"
+isbn: "978-623-7447-57-3"
 bahasa: "Indonesia"
 penerbit: "Ahlan"
 umur: "Usia Remaja"
@@ -12,11 +12,11 @@ categories:
   - "Agama"
 sliders: 
   - title: "slide A"
-    image: ""
+    image: "/assets/images/produk/isi-mondokin-anak1.png"
   - title: "slide B"
-    image: ""
+    image: "/assets/images/produk/isi-mondokin-anak2.png"
   - title: "slide C"
-    image: ""
+    image: "/assets/images/produk/isi-mondokin-anak3.png"
 ---
 
 hadirnya buku ini di tengah kaum muslimin, khususnya para generasi muda dapat memberi sedikit sumbang sih pencerahan dalam mengenal dunia pesantren lebih dekat serta dapat menjadi tabungan pahala jariyah bagi para penulis dan seluruh pihak yang terlibat dalam penyusunan buku ini.

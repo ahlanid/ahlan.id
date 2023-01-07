@@ -1,5 +1,5 @@
 ---
-title: "Seri Sains: Organ Tubuh Manusia (Coming Soon)"
+title: "Seri Sains: Organ Tubuh Manusia"
 date: "2022-10-17 14:14:17 +0700"
 image: "/assets/images/produk/cover-Organ-Tubuh-Manusia.jpg"
 author: "Nanda Seftyana S.Si."
