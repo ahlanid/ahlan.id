@@ -2761,6 +2761,14 @@
         nama: "@gerai_aisha"
         url: "https://www.instagram.com/gerai_aisha/"
 
+    - kota: "Reseller Kota Bontang"
+      nama: "Widya Ayu Bintarawati"
+      nomor_telepon: 081327073987
+      nomor_wa: 081327073987
+      instagram:
+        nama: "@hibaimbook.store"
+        url: ""
+
 - wilayah: "Kalimantan Barat"
   data:
     - kota: "Reseller Kota Pontianak"
