@@ -2604,6 +2604,14 @@
         nama: "@pustakasawokecik_jogja" 
         url: "https://www.instagram.com/pustakasawokecik_jogja/"
 
+    - kota: "Reseller Kota Yogyakarta"
+      nama: "Nila Agustina"
+      nomor_telepon: 082148994478
+      nomor_wa: 082148994478
+      instagram:
+        nama: "@Zahwacozy_Bookcorner"
+        url: "https:www.instagram.com/Zahwacozy_Bookcorner/"
+
 - wilayah: "Kalimantan Timur"
   data:
     - kota: "Agen Kota Balikpapan"
@@ -2771,13 +2779,6 @@
 
 - wilayah: "Kalimantan Barat"
   data:
-    - kota: "Reseller Kota Pontianak"
-      nama: "Nila Agustina"
-      nomor_telepon: 082148994478
-      nomor_wa: 082148994478
-      instagram:
-        nama: "@Zahwacozy_Bookcorner"
-        url: "https:www.instagram.com/Zahwacozy_Bookcorner/"
 
     - kota: "Reseller Kota Pontianak & Sambas"
       nama: "Rissa Nisfurianti"
