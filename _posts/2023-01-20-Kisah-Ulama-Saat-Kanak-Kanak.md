@@ -1,5 +1,5 @@
 ---
-title: "Kisah Ulama Saat Kanak-Kanak dalam Menuntut Ilmu"
+title: "Kisah Ulama Saat Kanak-Kanak dalam Menuntut Ilmu (Coming Soon)"
 date: "2023-01-20 14:14:17 +0700"
 image: "/assets/images/produk/Cover-Kisah-Ulama-Saat-Kanak-Kanak.jpeg"
 author: "Abu Ady"
