@@ -2119,6 +2119,20 @@
         nama: "@shestore_sis"
         url: "https://shopee.co.id/shestore_sis/"
 
+    - kota: "Agen Kabupaten Banyuwangi"
+      nama: "Marleni Nor Jannah"
+      nomor_telepon: 081235325998
+      nomor_wa: 081235325998
+      tokopedia:
+        nama: "@AhTeam"
+        url: ""
+      instagram:
+        nama: "@abbasbookstore"
+        url: ""
+      shopee:
+        nama: "@umma_Abbas"
+        url: ""
+
     - kota: "Reseller Kabupaten Banyuwangi"
       nama: "Ekky"
       nomor_telepon: 081336393696
@@ -2555,6 +2569,23 @@
         url: ""
       shopee:
         nama: "@Bakulbuku" 
+        url: ""
+
+    - kota: "Agen Kota Yogyakarta"
+      nama: "Satria Buana"
+      nomor_telepon: 081578958484
+      nomor_wa: 081578958484
+      facebook:
+        nama: "@Toko Muslim Bantul" 
+        url: ""
+      tokopedia:
+        nama: "@tokomuslimbantul " 
+        url: ""
+      instagram:
+        nama: "@tokomuslim" 
+        url: ""
+      shopee:
+        nama: "@tokomuslimbantul" 
         url: ""
 
     - kota: "Reseller Kota Yogyakarta"
